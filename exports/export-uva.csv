@@ -1,0 +1,1891 @@
+,pais,quantidade,valor,ano,origem
+0,Africa do Sul,0.0,0.0,2008,Brasil
+1,Africa do Sul,15300.0,32130.0,2009,Brasil
+2,Africa do Sul,0.0,0.0,2010,Brasil
+3,Africa do Sul,0.0,0.0,2011,Brasil
+4,Africa do Sul,0.0,0.0,2012,Brasil
+5,Africa do Sul,0.0,0.0,2013,Brasil
+6,Africa do Sul,0.0,0.0,2014,Brasil
+7,Africa do Sul,0.0,0.0,2015,Brasil
+8,Africa do Sul,0.0,0.0,2016,Brasil
+9,Africa do Sul,0.0,0.0,2017,Brasil
+10,Africa do Sul,0.0,0.0,2018,Brasil
+11,Africa do Sul,8.0,30.0,2019,Brasil
+12,Africa do Sul,44.0,152.0,2020,Brasil
+13,Africa do Sul,0.0,0.0,2021,Brasil
+14,Africa do Sul,0.0,0.0,2022,Brasil
+15,Alemanha,1297991.0,2693071.0,2008,Brasil
+16,Alemanha,759594.0,1475757.0,2009,Brasil
+17,Alemanha,713942.0,1437429.0,2010,Brasil
+18,Alemanha,1167243.0,2430345.0,2011,Brasil
+19,Alemanha,1021075.0,2064845.0,2012,Brasil
+20,Alemanha,2457655.0,5316776.0,2013,Brasil
+21,Alemanha,1649514.0,3524291.0,2014,Brasil
+22,Alemanha,3277187.0,6532957.0,2015,Brasil
+23,Alemanha,2384112.0,5161080.0,2016,Brasil
+24,Alemanha,3353831.0,6730502.0,2017,Brasil
+25,Alemanha,2870420.0,5833592.0,2018,Brasil
+26,Alemanha,1863097.0,3480290.0,2019,Brasil
+27,Alemanha,1371694.0,2791556.0,2020,Brasil
+28,Alemanha,1461590.0,2569452.0,2021,Brasil
+29,Alemanha,559012.0,1213303.0,2022,Brasil
+30,Angola,33860.0,90396.0,2008,Brasil
+31,Angola,29700.0,110058.0,2009,Brasil
+32,Angola,0.0,0.0,2010,Brasil
+33,Angola,0.0,0.0,2011,Brasil
+34,Angola,350.0,2492.0,2012,Brasil
+35,Angola,0.0,0.0,2013,Brasil
+36,Angola,0.0,0.0,2014,Brasil
+37,Angola,0.0,0.0,2015,Brasil
+38,Angola,0.0,0.0,2016,Brasil
+39,Angola,0.0,0.0,2017,Brasil
+40,Angola,15.0,33.0,2018,Brasil
+41,Angola,75.0,145.0,2019,Brasil
+42,Angola,0.0,0.0,2020,Brasil
+43,Angola,0.0,0.0,2021,Brasil
+44,Angola,0.0,0.0,2022,Brasil
+45,Antígua e Barbuda,0.0,0.0,2008,Brasil
+46,Antígua e Barbuda,0.0,0.0,2009,Brasil
+47,Antígua e Barbuda,0.0,0.0,2010,Brasil
+48,Antígua e Barbuda,0.0,0.0,2011,Brasil
+49,Antígua e Barbuda,0.0,0.0,2012,Brasil
+50,Antígua e Barbuda,0.0,0.0,2013,Brasil
+51,Antígua e Barbuda,0.0,0.0,2014,Brasil
+52,Antígua e Barbuda,0.0,0.0,2015,Brasil
+53,Antígua e Barbuda,0.0,0.0,2016,Brasil
+54,Antígua e Barbuda,0.0,0.0,2017,Brasil
+55,Antígua e Barbuda,65.0,164.0,2018,Brasil
+56,Antígua e Barbuda,190.0,580.0,2019,Brasil
+57,Antígua e Barbuda,304.0,1013.0,2020,Brasil
+58,Antígua e Barbuda,437.0,1349.0,2021,Brasil
+59,Antígua e Barbuda,253.0,999.0,2022,Brasil
+60,Arabia Saudita,47328.0,103666.0,2008,Brasil
+61,Arabia Saudita,0.0,0.0,2009,Brasil
+62,Arabia Saudita,0.0,0.0,2010,Brasil
+63,Arabia Saudita,15300.0,30600.0,2011,Brasil
+64,Arabia Saudita,0.0,0.0,2012,Brasil
+65,Arabia Saudita,0.0,0.0,2013,Brasil
+66,Arabia Saudita,0.0,0.0,2014,Brasil
+67,Arabia Saudita,61200.0,140760.0,2015,Brasil
+68,Arabia Saudita,0.0,0.0,2016,Brasil
+69,Arabia Saudita,0.0,0.0,2017,Brasil
+70,Arabia Saudita,14725.0,28615.0,2018,Brasil
+71,Arabia Saudita,167731.0,271231.0,2019,Brasil
+72,Arabia Saudita,32325.0,95999.0,2020,Brasil
+73,Arabia Saudita,2818.0,14671.0,2021,Brasil
+74,Arabia Saudita,12224.0,53675.0,2022,Brasil
+75,Argélia,0.0,0.0,2008,Brasil
+76,Argélia,0.0,0.0,2009,Brasil
+77,Argélia,0.0,0.0,2010,Brasil
+78,Argélia,0.0,0.0,2011,Brasil
+79,Argélia,0.0,0.0,2012,Brasil
+80,Argélia,0.0,0.0,2013,Brasil
+81,Argélia,0.0,0.0,2014,Brasil
+82,Argélia,0.0,0.0,2015,Brasil
+83,Argélia,0.0,0.0,2016,Brasil
+84,Argélia,0.0,0.0,2017,Brasil
+85,Argélia,20672.0,30968.0,2018,Brasil
+86,Argélia,0.0,0.0,2019,Brasil
+87,Argélia,0.0,0.0,2020,Brasil
+88,Argélia,0.0,0.0,2021,Brasil
+89,Argélia,0.0,0.0,2022,Brasil
+90,Argentina,724192.0,1474257.0,2008,Brasil
+91,Argentina,414008.0,929225.0,2009,Brasil
+92,Argentina,446280.0,1005124.0,2010,Brasil
+93,Argentina,264816.0,471205.0,2011,Brasil
+94,Argentina,170851.0,298692.0,2012,Brasil
+95,Argentina,32640.0,73440.0,2013,Brasil
+96,Argentina,0.0,0.0,2014,Brasil
+97,Argentina,0.0,0.0,2015,Brasil
+98,Argentina,1156368.0,2340897.0,2016,Brasil
+99,Argentina,2872152.0,5757072.0,2017,Brasil
+100,Argentina,1536650.0,2478547.0,2018,Brasil
+101,Argentina,1186878.0,1758528.0,2019,Brasil
+102,Argentina,2002784.0,3707550.0,2020,Brasil
+103,Argentina,4606314.0,7764448.0,2021,Brasil
+104,Argentina,3954281.0,8103640.0,2022,Brasil
+105,Áustria,0.0,0.0,2008,Brasil
+106,Áustria,0.0,0.0,2009,Brasil
+107,Áustria,0.0,0.0,2010,Brasil
+108,Áustria,0.0,0.0,2011,Brasil
+109,Áustria,0.0,0.0,2012,Brasil
+110,Áustria,0.0,0.0,2013,Brasil
+111,Áustria,0.0,0.0,2014,Brasil
+112,Áustria,0.0,0.0,2015,Brasil
+113,Áustria,0.0,0.0,2016,Brasil
+114,Áustria,0.0,0.0,2017,Brasil
+115,Áustria,0.0,0.0,2018,Brasil
+116,Áustria,0.0,0.0,2019,Brasil
+117,Áustria,0.0,0.0,2020,Brasil
+118,Áustria,0.0,0.0,2021,Brasil
+119,Áustria,0.0,0.0,2022,Brasil
+120,Bahamas,0.0,0.0,2008,Brasil
+121,Bahamas,0.0,0.0,2009,Brasil
+122,Bahamas,0.0,0.0,2010,Brasil
+123,Bahamas,0.0,0.0,2011,Brasil
+124,Bahamas,0.0,0.0,2012,Brasil
+125,Bahamas,0.0,0.0,2013,Brasil
+126,Bahamas,0.0,0.0,2014,Brasil
+127,Bahamas,0.0,0.0,2015,Brasil
+128,Bahamas,0.0,0.0,2016,Brasil
+129,Bahamas,0.0,0.0,2017,Brasil
+130,Bahamas,25630.0,52046.0,2018,Brasil
+131,Bahamas,2869.0,9184.0,2019,Brasil
+132,Bahamas,3208.0,9449.0,2020,Brasil
+133,Bahamas,3482.0,10184.0,2021,Brasil
+134,Bahamas,3035.0,10694.0,2022,Brasil
+135,Bahrein,0.0,0.0,2008,Brasil
+136,Bahrein,0.0,0.0,2009,Brasil
+137,Bahrein,0.0,0.0,2010,Brasil
+138,Bahrein,0.0,0.0,2011,Brasil
+139,Bahrein,0.0,0.0,2012,Brasil
+140,Bahrein,0.0,0.0,2013,Brasil
+141,Bahrein,0.0,0.0,2014,Brasil
+142,Bahrein,0.0,0.0,2015,Brasil
+143,Bahrein,0.0,0.0,2016,Brasil
+144,Bahrein,0.0,0.0,2017,Brasil
+145,Bahrein,0.0,0.0,2018,Brasil
+146,Bahrein,0.0,0.0,2019,Brasil
+147,Bahrein,0.0,0.0,2020,Brasil
+148,Bahrein,0.0,0.0,2021,Brasil
+149,Bahrein,0.0,0.0,2022,Brasil
+150,Bangladesh,0.0,0.0,2008,Brasil
+151,Bangladesh,0.0,0.0,2009,Brasil
+152,Bangladesh,0.0,0.0,2010,Brasil
+153,Bangladesh,0.0,0.0,2011,Brasil
+154,Bangladesh,0.0,0.0,2012,Brasil
+155,Bangladesh,0.0,0.0,2013,Brasil
+156,Bangladesh,0.0,0.0,2014,Brasil
+157,Bangladesh,0.0,0.0,2015,Brasil
+158,Bangladesh,0.0,0.0,2016,Brasil
+159,Bangladesh,0.0,0.0,2017,Brasil
+160,Bangladesh,0.0,0.0,2018,Brasil
+161,Bangladesh,0.0,0.0,2019,Brasil
+162,Bangladesh,30.0,214.0,2020,Brasil
+163,Bangladesh,17.0,53.0,2021,Brasil
+164,Bangladesh,113.0,319.0,2022,Brasil
+165,Barbados,0.0,0.0,2008,Brasil
+166,Barbados,0.0,0.0,2009,Brasil
+167,Barbados,0.0,0.0,2010,Brasil
+168,Barbados,0.0,0.0,2011,Brasil
+169,Barbados,0.0,0.0,2012,Brasil
+170,Barbados,0.0,0.0,2013,Brasil
+171,Barbados,0.0,0.0,2014,Brasil
+172,Barbados,0.0,0.0,2015,Brasil
+173,Barbados,0.0,0.0,2016,Brasil
+174,Barbados,0.0,0.0,2017,Brasil
+175,Barbados,15.0,59.0,2018,Brasil
+176,Barbados,110.0,354.0,2019,Brasil
+177,Barbados,83.0,197.0,2020,Brasil
+178,Barbados,180.0,457.0,2021,Brasil
+179,Barbados,163.0,540.0,2022,Brasil
+180,Barein,0.0,0.0,2008,Brasil
+181,Barein,0.0,0.0,2009,Brasil
+182,Barein,0.0,0.0,2010,Brasil
+183,Barein,0.0,0.0,2011,Brasil
+184,Barein,0.0,0.0,2012,Brasil
+185,Barein,0.0,0.0,2013,Brasil
+186,Barein,0.0,0.0,2014,Brasil
+187,Barein,0.0,0.0,2015,Brasil
+188,Barein,0.0,0.0,2016,Brasil
+189,Barein,0.0,0.0,2017,Brasil
+190,Barein,27.0,105.0,2018,Brasil
+191,Barein,958.0,3353.0,2019,Brasil
+192,Barein,250.0,796.0,2020,Brasil
+193,Barein,277.0,937.0,2021,Brasil
+194,Barein,316.0,1159.0,2022,Brasil
+195,Bélgica,3163866.0,8111299.0,2008,Brasil
+196,Bélgica,1507559.0,3229623.0,2009,Brasil
+197,Bélgica,1777534.0,4258476.0,2010,Brasil
+198,Bélgica,122727.0,271655.0,2011,Brasil
+199,Bélgica,0.0,0.0,2012,Brasil
+200,Bélgica,0.0,0.0,2013,Brasil
+201,Bélgica,16848.0,21255.0,2014,Brasil
+202,Bélgica,88832.0,219060.0,2015,Brasil
+203,Bélgica,0.0,0.0,2016,Brasil
+204,Bélgica,0.0,0.0,2017,Brasil
+205,Bélgica,150493.0,281779.0,2018,Brasil
+206,Bélgica,176918.0,336252.0,2019,Brasil
+207,Bélgica,12757.0,24336.0,2020,Brasil
+208,Bélgica,202.0,664.0,2021,Brasil
+209,Bélgica,39134.0,95538.0,2022,Brasil
+210,Belize,0.0,0.0,2008,Brasil
+211,Belize,0.0,0.0,2009,Brasil
+212,Belize,0.0,0.0,2010,Brasil
+213,Belize,0.0,0.0,2011,Brasil
+214,Belize,0.0,0.0,2012,Brasil
+215,Belize,0.0,0.0,2013,Brasil
+216,Belize,0.0,0.0,2014,Brasil
+217,Belize,0.0,0.0,2015,Brasil
+218,Belize,0.0,0.0,2016,Brasil
+219,Belize,0.0,0.0,2017,Brasil
+220,Belize,0.0,0.0,2018,Brasil
+221,Belize,20.0,48.0,2019,Brasil
+222,Belize,20.0,32.0,2020,Brasil
+223,Belize,55.0,92.0,2021,Brasil
+224,Belize,117.0,248.0,2022,Brasil
+225,Bermudas,0.0,0.0,2008,Brasil
+226,Bermudas,0.0,0.0,2009,Brasil
+227,Bermudas,0.0,0.0,2010,Brasil
+228,Bermudas,0.0,0.0,2011,Brasil
+229,Bermudas,0.0,0.0,2012,Brasil
+230,Bermudas,0.0,0.0,2013,Brasil
+231,Bermudas,0.0,0.0,2014,Brasil
+232,Bermudas,0.0,0.0,2015,Brasil
+233,Bermudas,0.0,0.0,2016,Brasil
+234,Bermudas,0.0,0.0,2017,Brasil
+235,Bermudas,23.0,69.0,2018,Brasil
+236,Bermudas,228.0,1047.0,2019,Brasil
+237,Bermudas,390.0,1375.0,2020,Brasil
+238,Bermudas,96.0,323.0,2021,Brasil
+239,Bermudas,200.0,761.0,2022,Brasil
+240,Bolívia,0.0,0.0,2008,Brasil
+241,Bolívia,0.0,0.0,2009,Brasil
+242,Bolívia,0.0,0.0,2010,Brasil
+243,Bolívia,0.0,0.0,2011,Brasil
+244,Bolívia,17.0,96.0,2012,Brasil
+245,Bolívia,0.0,0.0,2013,Brasil
+246,Bolívia,0.0,0.0,2014,Brasil
+247,Bolívia,0.0,0.0,2015,Brasil
+248,Bolívia,0.0,0.0,2016,Brasil
+249,Bolívia,0.0,0.0,2017,Brasil
+250,Bolívia,10.0,97.0,2018,Brasil
+251,Bolívia,0.0,0.0,2019,Brasil
+252,Bolívia,92974.0,34914.0,2020,Brasil
+253,Bolívia,436800.0,250134.0,2021,Brasil
+254,Bolívia,132736.0,67397.0,2022,Brasil
+255,Bosnia,0.0,0.0,2008,Brasil
+256,Bosnia,0.0,0.0,2009,Brasil
+257,Bosnia,0.0,0.0,2010,Brasil
+258,Bosnia,0.0,0.0,2011,Brasil
+259,Bosnia,0.0,0.0,2012,Brasil
+260,Bosnia,0.0,0.0,2013,Brasil
+261,Bosnia,0.0,0.0,2014,Brasil
+262,Bosnia,0.0,0.0,2015,Brasil
+263,Bosnia,0.0,0.0,2016,Brasil
+264,Bosnia,0.0,0.0,2017,Brasil
+265,Bosnia,0.0,0.0,2018,Brasil
+266,Bosnia,52.0,67.0,2019,Brasil
+267,Bosnia,447.0,472.0,2020,Brasil
+268,Bosnia,0.0,0.0,2021,Brasil
+269,Bosnia,0.0,0.0,2022,Brasil
+270,Brasil,0.0,0.0,2008,Brasil
+271,Brasil,0.0,0.0,2009,Brasil
+272,Brasil,0.0,0.0,2010,Brasil
+273,Brasil,0.0,0.0,2011,Brasil
+274,Brasil,0.0,0.0,2012,Brasil
+275,Brasil,0.0,0.0,2013,Brasil
+276,Brasil,0.0,0.0,2014,Brasil
+277,Brasil,0.0,0.0,2015,Brasil
+278,Brasil,0.0,0.0,2016,Brasil
+279,Brasil,0.0,0.0,2017,Brasil
+280,Brasil,0.0,0.0,2018,Brasil
+281,Brasil,18.0,62.0,2019,Brasil
+282,Brasil,0.0,0.0,2020,Brasil
+283,Brasil,70.0,173.0,2021,Brasil
+284,Brasil,109.0,267.0,2022,Brasil
+285,Bulgária,0.0,0.0,2008,Brasil
+286,Bulgária,0.0,0.0,2009,Brasil
+287,Bulgária,0.0,0.0,2010,Brasil
+288,Bulgária,0.0,0.0,2011,Brasil
+289,Bulgária,0.0,0.0,2012,Brasil
+290,Bulgária,0.0,0.0,2013,Brasil
+291,Bulgária,0.0,0.0,2014,Brasil
+292,Bulgária,0.0,0.0,2015,Brasil
+293,Bulgária,0.0,0.0,2016,Brasil
+294,Bulgária,0.0,0.0,2017,Brasil
+295,Bulgária,0.0,0.0,2018,Brasil
+296,Bulgária,0.0,0.0,2019,Brasil
+297,Bulgária,100.0,170.0,2020,Brasil
+298,Bulgária,0.0,0.0,2021,Brasil
+299,Bulgária,0.0,0.0,2022,Brasil
+300,Burquina Faso,0.0,0.0,2008,Brasil
+301,Burquina Faso,0.0,0.0,2009,Brasil
+302,Burquina Faso,0.0,0.0,2010,Brasil
+303,Burquina Faso,0.0,0.0,2011,Brasil
+304,Burquina Faso,0.0,0.0,2012,Brasil
+305,Burquina Faso,0.0,0.0,2013,Brasil
+306,Burquina Faso,0.0,0.0,2014,Brasil
+307,Burquina Faso,0.0,0.0,2015,Brasil
+308,Burquina Faso,0.0,0.0,2016,Brasil
+309,Burquina Faso,0.0,0.0,2017,Brasil
+310,Burquina Faso,0.0,0.0,2018,Brasil
+311,Burquina Faso,10.0,37.0,2019,Brasil
+312,Burquina Faso,0.0,0.0,2020,Brasil
+313,Burquina Faso,0.0,0.0,2021,Brasil
+314,Burquina Faso,0.0,0.0,2022,Brasil
+315,Cabo Verde,10.0,29.0,2008,Brasil
+316,Cabo Verde,0.0,0.0,2009,Brasil
+317,Cabo Verde,0.0,0.0,2010,Brasil
+318,Cabo Verde,0.0,0.0,2011,Brasil
+319,Cabo Verde,0.0,0.0,2012,Brasil
+320,Cabo Verde,0.0,0.0,2013,Brasil
+321,Cabo Verde,0.0,0.0,2014,Brasil
+322,Cabo Verde,0.0,0.0,2015,Brasil
+323,Cabo Verde,0.0,0.0,2016,Brasil
+324,Cabo Verde,0.0,0.0,2017,Brasil
+325,Cabo Verde,0.0,0.0,2018,Brasil
+326,Cabo Verde,0.0,0.0,2019,Brasil
+327,Cabo Verde,0.0,0.0,2020,Brasil
+328,Cabo Verde,0.0,0.0,2021,Brasil
+329,Cabo Verde,0.0,0.0,2022,Brasil
+330,Camarões,0.0,0.0,2008,Brasil
+331,Camarões,0.0,0.0,2009,Brasil
+332,Camarões,0.0,0.0,2010,Brasil
+333,Camarões,0.0,0.0,2011,Brasil
+334,Camarões,0.0,0.0,2012,Brasil
+335,Camarões,0.0,0.0,2013,Brasil
+336,Camarões,0.0,0.0,2014,Brasil
+337,Camarões,0.0,0.0,2015,Brasil
+338,Camarões,0.0,0.0,2016,Brasil
+339,Camarões,0.0,0.0,2017,Brasil
+340,Camarões,0.0,0.0,2018,Brasil
+341,Camarões,0.0,0.0,2019,Brasil
+342,Camarões,0.0,0.0,2020,Brasil
+343,Camarões,0.0,0.0,2021,Brasil
+344,Camarões,50.0,149.0,2022,Brasil
+345,Camores,0.0,0.0,2008,Brasil
+346,Camores,0.0,0.0,2009,Brasil
+347,Camores,0.0,0.0,2010,Brasil
+348,Camores,0.0,0.0,2011,Brasil
+349,Camores,0.0,0.0,2012,Brasil
+350,Camores,0.0,0.0,2013,Brasil
+351,Camores,0.0,0.0,2014,Brasil
+352,Camores,0.0,0.0,2015,Brasil
+353,Camores,0.0,0.0,2016,Brasil
+354,Camores,0.0,0.0,2017,Brasil
+355,Camores,0.0,0.0,2018,Brasil
+356,Camores,20.0,75.0,2019,Brasil
+357,Camores,10.0,34.0,2020,Brasil
+358,Camores,0.0,0.0,2021,Brasil
+359,Camores,0.0,0.0,2022,Brasil
+360,Canadá,739519.0,2621657.0,2008,Brasil
+361,Canadá,688878.0,2324716.0,2009,Brasil
+362,Canadá,716985.0,1912515.0,2010,Brasil
+363,Canadá,834800.0,2251696.0,2011,Brasil
+364,Canadá,751591.0,2143723.0,2012,Brasil
+365,Canadá,725927.0,1858772.0,2013,Brasil
+366,Canadá,292980.0,761641.0,2014,Brasil
+367,Canadá,239200.0,582653.0,2015,Brasil
+368,Canadá,110752.0,287454.0,2016,Brasil
+369,Canadá,12983.0,74228.0,2017,Brasil
+370,Canadá,36798.0,171155.0,2018,Brasil
+371,Canadá,24565.0,220025.0,2019,Brasil
+372,Canadá,86635.0,457420.0,2020,Brasil
+373,Canadá,321755.0,1233545.0,2021,Brasil
+374,Canadá,383543.0,1497880.0,2022,Brasil
+375,Catar,0.0,0.0,2008,Brasil
+376,Catar,0.0,0.0,2009,Brasil
+377,Catar,0.0,0.0,2010,Brasil
+378,Catar,0.0,0.0,2011,Brasil
+379,Catar,0.0,0.0,2012,Brasil
+380,Catar,0.0,0.0,2013,Brasil
+381,Catar,0.0,0.0,2014,Brasil
+382,Catar,0.0,0.0,2015,Brasil
+383,Catar,0.0,0.0,2016,Brasil
+384,Catar,0.0,0.0,2017,Brasil
+385,Catar,1100.0,4932.0,2018,Brasil
+386,Catar,81.0,298.0,2019,Brasil
+387,Catar,336.0,432.0,2020,Brasil
+388,Catar,5615.0,13665.0,2021,Brasil
+389,Catar,28.0,75.0,2022,Brasil
+390,"Cayman, Ilhas",0.0,0.0,2008,Brasil
+391,"Cayman, Ilhas",0.0,0.0,2009,Brasil
+392,"Cayman, Ilhas",0.0,0.0,2010,Brasil
+393,"Cayman, Ilhas",0.0,0.0,2011,Brasil
+394,"Cayman, Ilhas",0.0,0.0,2012,Brasil
+395,"Cayman, Ilhas",0.0,0.0,2013,Brasil
+396,"Cayman, Ilhas",0.0,0.0,2014,Brasil
+397,"Cayman, Ilhas",0.0,0.0,2015,Brasil
+398,"Cayman, Ilhas",0.0,0.0,2016,Brasil
+399,"Cayman, Ilhas",0.0,0.0,2017,Brasil
+400,"Cayman, Ilhas",61.0,140.0,2018,Brasil
+401,"Cayman, Ilhas",216.0,638.0,2019,Brasil
+402,"Cayman, Ilhas",341.0,1130.0,2020,Brasil
+403,"Cayman, Ilhas",372.0,1121.0,2021,Brasil
+404,"Cayman, Ilhas",277.0,1145.0,2022,Brasil
+405,Chile,0.0,0.0,2008,Brasil
+406,Chile,0.0,0.0,2009,Brasil
+407,Chile,0.0,0.0,2010,Brasil
+408,Chile,0.0,0.0,2011,Brasil
+409,Chile,0.0,0.0,2012,Brasil
+410,Chile,0.0,0.0,2013,Brasil
+411,Chile,0.0,0.0,2014,Brasil
+412,Chile,0.0,0.0,2015,Brasil
+413,Chile,14.0,25963.0,2016,Brasil
+414,Chile,0.0,0.0,2017,Brasil
+415,Chile,25.0,81.0,2018,Brasil
+416,Chile,189.0,457.0,2019,Brasil
+417,Chile,266.0,826.0,2020,Brasil
+418,Chile,109.0,376.0,2021,Brasil
+419,Chile,31.0,125.0,2022,Brasil
+420,China,0.0,0.0,2008,Brasil
+421,China,0.0,0.0,2009,Brasil
+422,China,0.0,0.0,2010,Brasil
+423,China,0.0,0.0,2011,Brasil
+424,China,0.0,0.0,2012,Brasil
+425,China,0.0,0.0,2013,Brasil
+426,China,0.0,0.0,2014,Brasil
+427,China,0.0,0.0,2015,Brasil
+428,China,0.0,0.0,2016,Brasil
+429,China,0.0,0.0,2017,Brasil
+430,China,418.0,1132.0,2018,Brasil
+431,China,1113.0,3171.0,2019,Brasil
+432,China,1197.0,3370.0,2020,Brasil
+433,China,1744.0,8882.0,2021,Brasil
+434,China,945.0,2708.0,2022,Brasil
+435,Chipre,0.0,0.0,2008,Brasil
+436,Chipre,0.0,0.0,2009,Brasil
+437,Chipre,0.0,0.0,2010,Brasil
+438,Chipre,0.0,0.0,2011,Brasil
+439,Chipre,0.0,0.0,2012,Brasil
+440,Chipre,0.0,0.0,2013,Brasil
+441,Chipre,0.0,0.0,2014,Brasil
+442,Chipre,0.0,0.0,2015,Brasil
+443,Chipre,0.0,0.0,2016,Brasil
+444,Chipre,0.0,0.0,2017,Brasil
+445,Chipre,414.0,1005.0,2018,Brasil
+446,Chipre,2173.0,6326.0,2019,Brasil
+447,Chipre,3407.0,8717.0,2020,Brasil
+448,Chipre,2590.0,6609.0,2021,Brasil
+449,Chipre,1867.0,4345.0,2022,Brasil
+450,Cingapura,0.0,0.0,2008,Brasil
+451,Cingapura,0.0,0.0,2009,Brasil
+452,Cingapura,0.0,0.0,2010,Brasil
+453,Cingapura,0.0,0.0,2011,Brasil
+454,Cingapura,0.0,0.0,2012,Brasil
+455,Cingapura,0.0,0.0,2013,Brasil
+456,Cingapura,0.0,0.0,2014,Brasil
+457,Cingapura,0.0,0.0,2015,Brasil
+458,Cingapura,0.0,0.0,2016,Brasil
+459,Cingapura,0.0,0.0,2017,Brasil
+460,Cingapura,1705.0,5375.0,2018,Brasil
+461,Cingapura,7081.0,23803.0,2019,Brasil
+462,Cingapura,6933.0,29402.0,2020,Brasil
+463,Cingapura,0.0,0.0,2021,Brasil
+464,Cingapura,0.0,0.0,2022,Brasil
+465,"Cocos (Keeling), Ilhas",0.0,0.0,2008,Brasil
+466,"Cocos (Keeling), Ilhas",0.0,0.0,2009,Brasil
+467,"Cocos (Keeling), Ilhas",0.0,0.0,2010,Brasil
+468,"Cocos (Keeling), Ilhas",0.0,0.0,2011,Brasil
+469,"Cocos (Keeling), Ilhas",0.0,0.0,2012,Brasil
+470,"Cocos (Keeling), Ilhas",0.0,0.0,2013,Brasil
+471,"Cocos (Keeling), Ilhas",0.0,0.0,2014,Brasil
+472,"Cocos (Keeling), Ilhas",0.0,0.0,2015,Brasil
+473,"Cocos (Keeling), Ilhas",0.0,0.0,2016,Brasil
+474,"Cocos (Keeling), Ilhas",0.0,0.0,2017,Brasil
+475,"Cocos (Keeling), Ilhas",0.0,0.0,2018,Brasil
+476,"Cocos (Keeling), Ilhas",0.0,0.0,2019,Brasil
+477,"Cocos (Keeling), Ilhas",0.0,0.0,2020,Brasil
+478,"Cocos (Keeling), Ilhas",0.0,0.0,2021,Brasil
+479,"Cocos (Keeling), Ilhas",32.0,55.0,2022,Brasil
+480,Colombia,0.0,0.0,2008,Brasil
+481,Colombia,0.0,0.0,2009,Brasil
+482,Colombia,0.0,0.0,2010,Brasil
+483,Colombia,0.0,0.0,2011,Brasil
+484,Colombia,0.0,0.0,2012,Brasil
+485,Colombia,0.0,0.0,2013,Brasil
+486,Colombia,0.0,0.0,2014,Brasil
+487,Colombia,0.0,0.0,2015,Brasil
+488,Colombia,0.0,0.0,2016,Brasil
+489,Colombia,0.0,0.0,2017,Brasil
+490,Colombia,0.0,0.0,2018,Brasil
+491,Colombia,0.0,0.0,2019,Brasil
+492,Colombia,15.0,45.0,2020,Brasil
+493,Colombia,10.0,30.0,2021,Brasil
+494,Colombia,13.0,32.0,2022,Brasil
+495,Congo,0.0,0.0,2008,Brasil
+496,Congo,0.0,0.0,2009,Brasil
+497,Congo,0.0,0.0,2010,Brasil
+498,Congo,0.0,0.0,2011,Brasil
+499,Congo,0.0,0.0,2012,Brasil
+500,Congo,0.0,0.0,2013,Brasil
+501,Congo,0.0,0.0,2014,Brasil
+502,Congo,0.0,0.0,2015,Brasil
+503,Congo,0.0,0.0,2016,Brasil
+504,Congo,0.0,0.0,2017,Brasil
+505,Congo,0.0,0.0,2018,Brasil
+506,Congo,0.0,0.0,2019,Brasil
+507,Congo,0.0,0.0,2020,Brasil
+508,Congo,20.0,54.0,2021,Brasil
+509,Congo,0.0,0.0,2022,Brasil
+510,Coreia do Norte,0.0,0.0,2008,Brasil
+511,Coreia do Norte,0.0,0.0,2009,Brasil
+512,Coreia do Norte,0.0,0.0,2010,Brasil
+513,Coreia do Norte,0.0,0.0,2011,Brasil
+514,Coreia do Norte,0.0,0.0,2012,Brasil
+515,Coreia do Norte,0.0,0.0,2013,Brasil
+516,Coreia do Norte,0.0,0.0,2014,Brasil
+517,Coreia do Norte,0.0,0.0,2015,Brasil
+518,Coreia do Norte,0.0,0.0,2016,Brasil
+519,Coreia do Norte,0.0,0.0,2017,Brasil
+520,Coreia do Norte,0.0,0.0,2018,Brasil
+521,Coreia do Norte,0.0,0.0,2019,Brasil
+522,Coreia do Norte,30.0,119.0,2020,Brasil
+523,Coreia do Norte,0.0,0.0,2021,Brasil
+524,Coreia do Norte,0.0,0.0,2022,Brasil
+525,Coreia do Sul,0.0,0.0,2008,Brasil
+526,Coreia do Sul,0.0,0.0,2009,Brasil
+527,Coreia do Sul,0.0,0.0,2010,Brasil
+528,Coreia do Sul,0.0,0.0,2011,Brasil
+529,Coreia do Sul,0.0,0.0,2012,Brasil
+530,Coreia do Sul,0.0,0.0,2013,Brasil
+531,Coreia do Sul,0.0,0.0,2014,Brasil
+532,Coreia do Sul,0.0,0.0,2015,Brasil
+533,Coreia do Sul,0.0,0.0,2016,Brasil
+534,Coreia do Sul,0.0,0.0,2017,Brasil
+535,Coreia do Sul,54.0,154.0,2018,Brasil
+536,Coreia do Sul,270.0,620.0,2019,Brasil
+537,Coreia do Sul,226.0,517.0,2020,Brasil
+538,Coreia do Sul,245.0,610.0,2021,Brasil
+539,Coreia do Sul,142.0,381.0,2022,Brasil
+540,Costa do Marfim,0.0,0.0,2008,Brasil
+541,Costa do Marfim,0.0,0.0,2009,Brasil
+542,Costa do Marfim,0.0,0.0,2010,Brasil
+543,Costa do Marfim,0.0,0.0,2011,Brasil
+544,Costa do Marfim,0.0,0.0,2012,Brasil
+545,Costa do Marfim,0.0,0.0,2013,Brasil
+546,Costa do Marfim,0.0,0.0,2014,Brasil
+547,Costa do Marfim,0.0,0.0,2015,Brasil
+548,Costa do Marfim,0.0,0.0,2016,Brasil
+549,Costa do Marfim,0.0,0.0,2017,Brasil
+550,Costa do Marfim,0.0,0.0,2018,Brasil
+551,Costa do Marfim,16.0,34.0,2019,Brasil
+552,Costa do Marfim,0.0,0.0,2020,Brasil
+553,Costa do Marfim,0.0,0.0,2021,Brasil
+554,Costa do Marfim,0.0,0.0,2022,Brasil
+555,Coveite,0.0,0.0,2008,Brasil
+556,Coveite,0.0,0.0,2009,Brasil
+557,Coveite,0.0,0.0,2010,Brasil
+558,Coveite,0.0,0.0,2011,Brasil
+559,Coveite,0.0,0.0,2012,Brasil
+560,Coveite,8.0,28.0,2013,Brasil
+561,Coveite,0.0,0.0,2014,Brasil
+562,Coveite,0.0,0.0,2015,Brasil
+563,Coveite,0.0,0.0,2016,Brasil
+564,Coveite,0.0,0.0,2017,Brasil
+565,Coveite,0.0,0.0,2018,Brasil
+566,Coveite,0.0,0.0,2019,Brasil
+567,Coveite,1572.0,3000.0,2020,Brasil
+568,Coveite,20023.0,69921.0,2021,Brasil
+569,Coveite,7252.0,33694.0,2022,Brasil
+570,Croácia,0.0,0.0,2008,Brasil
+571,Croácia,0.0,0.0,2009,Brasil
+572,Croácia,0.0,0.0,2010,Brasil
+573,Croácia,0.0,0.0,2011,Brasil
+574,Croácia,0.0,0.0,2012,Brasil
+575,Croácia,0.0,0.0,2013,Brasil
+576,Croácia,0.0,0.0,2014,Brasil
+577,Croácia,0.0,0.0,2015,Brasil
+578,Croácia,0.0,0.0,2016,Brasil
+579,Croácia,0.0,0.0,2017,Brasil
+580,Croácia,0.0,0.0,2018,Brasil
+581,Croácia,0.0,0.0,2019,Brasil
+582,Croácia,16.0,104.0,2020,Brasil
+583,Croácia,10.0,25.0,2021,Brasil
+584,Croácia,20.0,28.0,2022,Brasil
+585,Curaçao,0.0,0.0,2008,Brasil
+586,Curaçao,0.0,0.0,2009,Brasil
+587,Curaçao,0.0,0.0,2010,Brasil
+588,Curaçao,0.0,0.0,2011,Brasil
+589,Curaçao,0.0,0.0,2012,Brasil
+590,Curaçao,0.0,0.0,2013,Brasil
+591,Curaçao,0.0,0.0,2014,Brasil
+592,Curaçao,0.0,0.0,2015,Brasil
+593,Curaçao,0.0,0.0,2016,Brasil
+594,Curaçao,0.0,0.0,2017,Brasil
+595,Curaçao,0.0,0.0,2018,Brasil
+596,Curaçao,0.0,0.0,2019,Brasil
+597,Curaçao,0.0,0.0,2020,Brasil
+598,Curaçao,10.0,16.0,2021,Brasil
+599,Curaçao,0.0,0.0,2022,Brasil
+600,Dinamarca,414062.0,1227661.0,2008,Brasil
+601,Dinamarca,251800.0,692757.0,2009,Brasil
+602,Dinamarca,364955.0,928499.0,2010,Brasil
+603,Dinamarca,12480.0,34597.0,2011,Brasil
+604,Dinamarca,12480.0,40211.0,2012,Brasil
+605,Dinamarca,111100.0,298900.0,2013,Brasil
+606,Dinamarca,97760.0,272459.0,2014,Brasil
+607,Dinamarca,118565.0,289554.0,2015,Brasil
+608,Dinamarca,12000.0,29594.0,2016,Brasil
+609,Dinamarca,0.0,0.0,2017,Brasil
+610,Dinamarca,102775.0,192891.0,2018,Brasil
+611,Dinamarca,56095.0,130520.0,2019,Brasil
+612,Dinamarca,62450.0,135756.0,2020,Brasil
+613,Dinamarca,109922.0,179960.0,2021,Brasil
+614,Dinamarca,26792.0,50928.0,2022,Brasil
+615,Djibuti,0.0,0.0,2008,Brasil
+616,Djibuti,0.0,0.0,2009,Brasil
+617,Djibuti,0.0,0.0,2010,Brasil
+618,Djibuti,0.0,0.0,2011,Brasil
+619,Djibuti,0.0,0.0,2012,Brasil
+620,Djibuti,0.0,0.0,2013,Brasil
+621,Djibuti,0.0,0.0,2014,Brasil
+622,Djibuti,0.0,0.0,2015,Brasil
+623,Djibuti,0.0,0.0,2016,Brasil
+624,Djibuti,0.0,0.0,2017,Brasil
+625,Djibuti,0.0,0.0,2018,Brasil
+626,Djibuti,0.0,0.0,2019,Brasil
+627,Djibuti,25.0,41.0,2020,Brasil
+628,Djibuti,0.0,0.0,2021,Brasil
+629,Djibuti,0.0,0.0,2022,Brasil
+630,Egito,0.0,0.0,2008,Brasil
+631,Egito,0.0,0.0,2009,Brasil
+632,Egito,0.0,0.0,2010,Brasil
+633,Egito,0.0,0.0,2011,Brasil
+634,Egito,0.0,0.0,2012,Brasil
+635,Egito,0.0,0.0,2013,Brasil
+636,Egito,0.0,0.0,2014,Brasil
+637,Egito,0.0,0.0,2015,Brasil
+638,Egito,0.0,0.0,2016,Brasil
+639,Egito,0.0,0.0,2017,Brasil
+640,Egito,10.0,40.0,2018,Brasil
+641,Egito,20.0,97.0,2019,Brasil
+642,Egito,0.0,0.0,2020,Brasil
+643,Egito,10.0,36.0,2021,Brasil
+644,Egito,0.0,0.0,2022,Brasil
+645,Emirados Árabes,160700.0,306763.0,2008,Brasil
+646,Emirados Árabes,16728.0,33861.0,2009,Brasil
+647,Emirados Árabes,80784.0,154936.0,2010,Brasil
+648,Emirados Árabes,50184.0,109956.0,2011,Brasil
+649,Emirados Árabes,65280.0,133946.0,2012,Brasil
+650,Emirados Árabes,233100.0,545937.0,2013,Brasil
+651,Emirados Árabes,918000.0,2560696.0,2014,Brasil
+652,Emirados Árabes,1341949.0,3423418.0,2015,Brasil
+653,Emirados Árabes,1648528.0,4118900.0,2016,Brasil
+654,Emirados Árabes,1645205.0,4252353.0,2017,Brasil
+655,Emirados Árabes,365615.0,899131.0,2018,Brasil
+656,Emirados Árabes,240422.0,697259.0,2019,Brasil
+657,Emirados Árabes,220576.0,630862.0,2020,Brasil
+658,Emirados Árabes,99808.0,368528.0,2021,Brasil
+659,Emirados Árabes,116384.0,401362.0,2022,Brasil
+660,Eslovenia,0.0,0.0,2008,Brasil
+661,Eslovenia,0.0,0.0,2009,Brasil
+662,Eslovenia,0.0,0.0,2010,Brasil
+663,Eslovenia,0.0,0.0,2011,Brasil
+664,Eslovenia,0.0,0.0,2012,Brasil
+665,Eslovenia,0.0,0.0,2013,Brasil
+666,Eslovenia,0.0,0.0,2014,Brasil
+667,Eslovenia,0.0,0.0,2015,Brasil
+668,Eslovenia,0.0,0.0,2016,Brasil
+669,Eslovenia,0.0,0.0,2017,Brasil
+670,Eslovenia,10.0,30.0,2018,Brasil
+671,Eslovenia,0.0,0.0,2019,Brasil
+672,Eslovenia,10.0,29.0,2020,Brasil
+673,Eslovenia,0.0,0.0,2021,Brasil
+674,Eslovenia,0.0,0.0,2022,Brasil
+675,Espanha,0.0,0.0,2008,Brasil
+676,Espanha,0.0,0.0,2009,Brasil
+677,Espanha,127930.0,252454.0,2010,Brasil
+678,Espanha,12480.0,33723.0,2011,Brasil
+679,Espanha,0.0,0.0,2012,Brasil
+680,Espanha,0.0,0.0,2013,Brasil
+681,Espanha,0.0,0.0,2014,Brasil
+682,Espanha,0.0,0.0,2015,Brasil
+683,Espanha,14400.0,36070.0,2016,Brasil
+684,Espanha,28872.0,51966.0,2017,Brasil
+685,Espanha,494802.0,997622.0,2018,Brasil
+686,Espanha,1094483.0,2089713.0,2019,Brasil
+687,Espanha,1743131.0,3842045.0,2020,Brasil
+688,Espanha,4554938.0,8685655.0,2021,Brasil
+689,Espanha,3504580.0,6022297.0,2022,Brasil
+690,Estados Unidos,19027635.0,41262823.0,2008,Brasil
+691,Estados Unidos,12444690.0,22745590.0,2009,Brasil
+692,Estados Unidos,13128195.0,28928695.0,2010,Brasil
+693,Estados Unidos,16251053.0,37440295.0,2011,Brasil
+694,Estados Unidos,8825628.0,19162062.0,2012,Brasil
+695,Estados Unidos,2666978.0,5673245.0,2013,Brasil
+696,Estados Unidos,61300.0,175546.0,2014,Brasil
+697,Estados Unidos,500450.0,1643930.0,2015,Brasil
+698,Estados Unidos,425988.0,1321045.0,2016,Brasil
+699,Estados Unidos,1820656.0,5180800.0,2017,Brasil
+700,Estados Unidos,2682088.0,8288437.0,2018,Brasil
+701,Estados Unidos,6117999.0,16239149.0,2019,Brasil
+702,Estados Unidos,7879841.0,22376155.0,2020,Brasil
+703,Estados Unidos,13610118.0,36523636.0,2021,Brasil
+704,Estados Unidos,9634362.0,26805893.0,2022,Brasil
+705,Falkland (Ilhas Malvinas),0.0,0.0,2008,Brasil
+706,Falkland (Ilhas Malvinas),0.0,0.0,2009,Brasil
+707,Falkland (Ilhas Malvinas),14.0,63.0,2010,Brasil
+708,Falkland (Ilhas Malvinas),0.0,0.0,2011,Brasil
+709,Falkland (Ilhas Malvinas),0.0,0.0,2012,Brasil
+710,Falkland (Ilhas Malvinas),0.0,0.0,2013,Brasil
+711,Falkland (Ilhas Malvinas),0.0,0.0,2014,Brasil
+712,Falkland (Ilhas Malvinas),0.0,0.0,2015,Brasil
+713,Falkland (Ilhas Malvinas),0.0,0.0,2016,Brasil
+714,Falkland (Ilhas Malvinas),0.0,0.0,2017,Brasil
+715,Falkland (Ilhas Malvinas),31.0,93.0,2018,Brasil
+716,Falkland (Ilhas Malvinas),20.0,69.0,2019,Brasil
+717,Falkland (Ilhas Malvinas),15.0,100.0,2020,Brasil
+718,Falkland (Ilhas Malvinas),20.0,24.0,2021,Brasil
+719,Falkland (Ilhas Malvinas),60.0,61.0,2022,Brasil
+720,"Faroé, Ilhas",0.0,0.0,2008,Brasil
+721,"Faroé, Ilhas",0.0,0.0,2009,Brasil
+722,"Faroé, Ilhas",0.0,0.0,2010,Brasil
+723,"Faroé, Ilhas",0.0,0.0,2011,Brasil
+724,"Faroé, Ilhas",0.0,0.0,2012,Brasil
+725,"Faroé, Ilhas",0.0,0.0,2013,Brasil
+726,"Faroé, Ilhas",0.0,0.0,2014,Brasil
+727,"Faroé, Ilhas",0.0,0.0,2015,Brasil
+728,"Faroé, Ilhas",0.0,0.0,2016,Brasil
+729,"Faroé, Ilhas",0.0,0.0,2017,Brasil
+730,"Faroé, Ilhas",0.0,0.0,2018,Brasil
+731,"Faroé, Ilhas",0.0,0.0,2019,Brasil
+732,"Faroé, Ilhas",25.0,98.0,2020,Brasil
+733,"Faroé, Ilhas",0.0,0.0,2021,Brasil
+734,"Faroé, Ilhas",0.0,0.0,2022,Brasil
+735,Filipinas,0.0,0.0,2008,Brasil
+736,Filipinas,0.0,0.0,2009,Brasil
+737,Filipinas,15909.0,22258.0,2010,Brasil
+738,Filipinas,0.0,0.0,2011,Brasil
+739,Filipinas,0.0,0.0,2012,Brasil
+740,Filipinas,0.0,0.0,2013,Brasil
+741,Filipinas,0.0,0.0,2014,Brasil
+742,Filipinas,0.0,0.0,2015,Brasil
+743,Filipinas,0.0,0.0,2016,Brasil
+744,Filipinas,0.0,0.0,2017,Brasil
+745,Filipinas,114.0,311.0,2018,Brasil
+746,Filipinas,594.0,1849.0,2019,Brasil
+747,Filipinas,441.0,1135.0,2020,Brasil
+748,Filipinas,317.0,815.0,2021,Brasil
+749,Filipinas,137.0,455.0,2022,Brasil
+750,Finlândia,24580.0,79087.0,2008,Brasil
+751,Finlândia,58825.0,161700.0,2009,Brasil
+752,Finlândia,36500.0,120256.0,2010,Brasil
+753,Finlândia,0.0,0.0,2011,Brasil
+754,Finlândia,109278.0,445626.0,2012,Brasil
+755,Finlândia,304120.0,971821.0,2013,Brasil
+756,Finlândia,152500.0,386650.0,2014,Brasil
+757,Finlândia,123500.0,253387.0,2015,Brasil
+758,Finlândia,24000.0,65352.0,2016,Brasil
+759,Finlândia,111720.0,202785.0,2017,Brasil
+760,Finlândia,0.0,0.0,2018,Brasil
+761,Finlândia,0.0,0.0,2019,Brasil
+762,Finlândia,0.0,0.0,2020,Brasil
+763,Finlândia,12480.0,23143.0,2021,Brasil
+764,Finlândia,0.0,0.0,2022,Brasil
+765,França,0.0,0.0,2008,Brasil
+766,França,0.0,0.0,2009,Brasil
+767,França,0.0,0.0,2010,Brasil
+768,França,0.0,0.0,2011,Brasil
+769,França,0.0,0.0,2012,Brasil
+770,França,0.0,0.0,2013,Brasil
+771,França,0.0,0.0,2014,Brasil
+772,França,0.0,0.0,2015,Brasil
+773,França,0.0,0.0,2016,Brasil
+774,França,63.0,16.0,2017,Brasil
+775,França,816.0,6549.0,2018,Brasil
+776,França,3091.0,12062.0,2019,Brasil
+777,França,1419.0,11552.0,2020,Brasil
+778,França,367.0,1342.0,2021,Brasil
+779,França,200.0,892.0,2022,Brasil
+780,Gabão,0.0,0.0,2008,Brasil
+781,Gabão,0.0,0.0,2009,Brasil
+782,Gabão,0.0,0.0,2010,Brasil
+783,Gabão,0.0,0.0,2011,Brasil
+784,Gabão,0.0,0.0,2012,Brasil
+785,Gabão,0.0,0.0,2013,Brasil
+786,Gabão,0.0,0.0,2014,Brasil
+787,Gabão,0.0,0.0,2015,Brasil
+788,Gabão,0.0,0.0,2016,Brasil
+789,Gabão,0.0,0.0,2017,Brasil
+790,Gabão,0.0,0.0,2018,Brasil
+791,Gabão,0.0,0.0,2019,Brasil
+792,Gabão,0.0,0.0,2020,Brasil
+793,Gabão,0.0,0.0,2021,Brasil
+794,Gabão,20.0,53.0,2022,Brasil
+795,Gana,0.0,0.0,2008,Brasil
+796,Gana,0.0,0.0,2009,Brasil
+797,Gana,0.0,0.0,2010,Brasil
+798,Gana,0.0,0.0,2011,Brasil
+799,Gana,0.0,0.0,2012,Brasil
+800,Gana,0.0,0.0,2013,Brasil
+801,Gana,0.0,0.0,2014,Brasil
+802,Gana,0.0,0.0,2015,Brasil
+803,Gana,0.0,0.0,2016,Brasil
+804,Gana,0.0,0.0,2017,Brasil
+805,Gana,0.0,0.0,2018,Brasil
+806,Gana,0.0,0.0,2019,Brasil
+807,Gana,0.0,0.0,2020,Brasil
+808,Gana,100.0,280.0,2021,Brasil
+809,Gana,0.0,0.0,2022,Brasil
+810,Georgia,0.0,0.0,2008,Brasil
+811,Georgia,0.0,0.0,2009,Brasil
+812,Georgia,0.0,0.0,2010,Brasil
+813,Georgia,0.0,0.0,2011,Brasil
+814,Georgia,0.0,0.0,2012,Brasil
+815,Georgia,0.0,0.0,2013,Brasil
+816,Georgia,0.0,0.0,2014,Brasil
+817,Georgia,0.0,0.0,2015,Brasil
+818,Georgia,0.0,0.0,2016,Brasil
+819,Georgia,0.0,0.0,2017,Brasil
+820,Georgia,0.0,0.0,2018,Brasil
+821,Georgia,26928.0,56010.0,2019,Brasil
+822,Georgia,0.0,0.0,2020,Brasil
+823,Georgia,0.0,0.0,2021,Brasil
+824,Georgia,0.0,0.0,2022,Brasil
+825,Gibraltar,0.0,0.0,2008,Brasil
+826,Gibraltar,0.0,0.0,2009,Brasil
+827,Gibraltar,0.0,0.0,2010,Brasil
+828,Gibraltar,0.0,0.0,2011,Brasil
+829,Gibraltar,0.0,0.0,2012,Brasil
+830,Gibraltar,0.0,0.0,2013,Brasil
+831,Gibraltar,0.0,0.0,2014,Brasil
+832,Gibraltar,0.0,0.0,2015,Brasil
+833,Gibraltar,0.0,0.0,2016,Brasil
+834,Gibraltar,0.0,0.0,2017,Brasil
+835,Gibraltar,69.0,175.0,2018,Brasil
+836,Gibraltar,231.0,755.0,2019,Brasil
+837,Gibraltar,243.0,709.0,2020,Brasil
+838,Gibraltar,198.0,356.0,2021,Brasil
+839,Gibraltar,125.0,480.0,2022,Brasil
+840,Grêcia,0.0,0.0,2008,Brasil
+841,Grêcia,0.0,0.0,2009,Brasil
+842,Grêcia,0.0,0.0,2010,Brasil
+843,Grêcia,0.0,0.0,2011,Brasil
+844,Grêcia,0.0,0.0,2012,Brasil
+845,Grêcia,0.0,0.0,2013,Brasil
+846,Grêcia,0.0,0.0,2014,Brasil
+847,Grêcia,0.0,0.0,2015,Brasil
+848,Grêcia,0.0,0.0,2016,Brasil
+849,Grêcia,0.0,0.0,2017,Brasil
+850,Grêcia,1456.0,3566.0,2018,Brasil
+851,Grêcia,2650.0,7171.0,2019,Brasil
+852,Grêcia,2802.0,6767.0,2020,Brasil
+853,Grêcia,4029.0,9972.0,2021,Brasil
+854,Grêcia,2536.0,6949.0,2022,Brasil
+855,Guadalupe,15300.0,34850.0,2008,Brasil
+856,Guadalupe,0.0,0.0,2009,Brasil
+857,Guadalupe,0.0,0.0,2010,Brasil
+858,Guadalupe,0.0,0.0,2011,Brasil
+859,Guadalupe,0.0,0.0,2012,Brasil
+860,Guadalupe,0.0,0.0,2013,Brasil
+861,Guadalupe,0.0,0.0,2014,Brasil
+862,Guadalupe,0.0,0.0,2015,Brasil
+863,Guadalupe,0.0,0.0,2016,Brasil
+864,Guadalupe,0.0,0.0,2017,Brasil
+865,Guadalupe,0.0,0.0,2018,Brasil
+866,Guadalupe,0.0,0.0,2019,Brasil
+867,Guadalupe,0.0,0.0,2020,Brasil
+868,Guadalupe,0.0,0.0,2021,Brasil
+869,Guadalupe,0.0,0.0,2022,Brasil
+870,Guiana,0.0,0.0,2008,Brasil
+871,Guiana,0.0,0.0,2009,Brasil
+872,Guiana,0.0,0.0,2010,Brasil
+873,Guiana,0.0,0.0,2011,Brasil
+874,Guiana,0.0,0.0,2012,Brasil
+875,Guiana,0.0,0.0,2013,Brasil
+876,Guiana,0.0,0.0,2014,Brasil
+877,Guiana,0.0,0.0,2015,Brasil
+878,Guiana,0.0,0.0,2016,Brasil
+879,Guiana,0.0,0.0,2017,Brasil
+880,Guiana,0.0,0.0,2018,Brasil
+881,Guiana,0.0,0.0,2019,Brasil
+882,Guiana,1432.0,3754.0,2020,Brasil
+883,Guiana,3116.0,7631.0,2021,Brasil
+884,Guiana,3902.0,12934.0,2022,Brasil
+885,Guiana Francesa,0.0,0.0,2008,Brasil
+886,Guiana Francesa,0.0,0.0,2009,Brasil
+887,Guiana Francesa,0.0,0.0,2010,Brasil
+888,Guiana Francesa,0.0,0.0,2011,Brasil
+889,Guiana Francesa,0.0,0.0,2012,Brasil
+890,Guiana Francesa,0.0,0.0,2013,Brasil
+891,Guiana Francesa,0.0,0.0,2014,Brasil
+892,Guiana Francesa,0.0,0.0,2015,Brasil
+893,Guiana Francesa,0.0,0.0,2016,Brasil
+894,Guiana Francesa,0.0,0.0,2017,Brasil
+895,Guiana Francesa,64.0,362.0,2018,Brasil
+896,Guiana Francesa,0.0,0.0,2019,Brasil
+897,Guiana Francesa,0.0,0.0,2020,Brasil
+898,Guiana Francesa,0.0,0.0,2021,Brasil
+899,Guiana Francesa,0.0,0.0,2022,Brasil
+900,Guine Equatorial,34.0,106.0,2008,Brasil
+901,Guine Equatorial,30.0,97.0,2009,Brasil
+902,Guine Equatorial,143.0,496.0,2010,Brasil
+903,Guine Equatorial,0.0,0.0,2011,Brasil
+904,Guine Equatorial,80.0,598.0,2012,Brasil
+905,Guine Equatorial,2912.0,14609.0,2013,Brasil
+906,Guine Equatorial,4000.0,23363.0,2014,Brasil
+907,Guine Equatorial,0.0,0.0,2015,Brasil
+908,Guine Equatorial,0.0,0.0,2016,Brasil
+909,Guine Equatorial,0.0,0.0,2017,Brasil
+910,Guine Equatorial,0.0,0.0,2018,Brasil
+911,Guine Equatorial,0.0,0.0,2019,Brasil
+912,Guine Equatorial,0.0,0.0,2020,Brasil
+913,Guine Equatorial,0.0,0.0,2021,Brasil
+914,Guine Equatorial,0.0,0.0,2022,Brasil
+915,Honduras,0.0,0.0,2008,Brasil
+916,Honduras,0.0,0.0,2009,Brasil
+917,Honduras,0.0,0.0,2010,Brasil
+918,Honduras,0.0,0.0,2011,Brasil
+919,Honduras,0.0,0.0,2012,Brasil
+920,Honduras,0.0,0.0,2013,Brasil
+921,Honduras,0.0,0.0,2014,Brasil
+922,Honduras,0.0,0.0,2015,Brasil
+923,Honduras,0.0,0.0,2016,Brasil
+924,Honduras,0.0,0.0,2017,Brasil
+925,Honduras,0.0,0.0,2018,Brasil
+926,Honduras,0.0,0.0,2019,Brasil
+927,Honduras,0.0,0.0,2020,Brasil
+928,Honduras,10.0,33.0,2021,Brasil
+929,Honduras,0.0,0.0,2022,Brasil
+930,Hong Kong,0.0,0.0,2008,Brasil
+931,Hong Kong,0.0,0.0,2009,Brasil
+932,Hong Kong,0.0,0.0,2010,Brasil
+933,Hong Kong,0.0,0.0,2011,Brasil
+934,Hong Kong,0.0,0.0,2012,Brasil
+935,Hong Kong,0.0,0.0,2013,Brasil
+936,Hong Kong,0.0,0.0,2014,Brasil
+937,Hong Kong,0.0,0.0,2015,Brasil
+938,Hong Kong,0.0,0.0,2016,Brasil
+939,Hong Kong,0.0,0.0,2017,Brasil
+940,Hong Kong,1105.0,3283.0,2018,Brasil
+941,Hong Kong,18566.0,118440.0,2019,Brasil
+942,Hong Kong,19362.0,198977.0,2020,Brasil
+943,Hong Kong,27507.0,116504.0,2021,Brasil
+944,Hong Kong,11130.0,81767.0,2022,Brasil
+945,Ilha de Man,0.0,0.0,2008,Brasil
+946,Ilha de Man,0.0,0.0,2009,Brasil
+947,Ilha de Man,0.0,0.0,2010,Brasil
+948,Ilha de Man,0.0,0.0,2011,Brasil
+949,Ilha de Man,0.0,0.0,2012,Brasil
+950,Ilha de Man,0.0,0.0,2013,Brasil
+951,Ilha de Man,0.0,0.0,2014,Brasil
+952,Ilha de Man,0.0,0.0,2015,Brasil
+953,Ilha de Man,0.0,0.0,2016,Brasil
+954,Ilha de Man,0.0,0.0,2017,Brasil
+955,Ilha de Man,48.0,116.0,2018,Brasil
+956,Ilha de Man,150.0,440.0,2019,Brasil
+957,Ilha de Man,136.0,411.0,2020,Brasil
+958,Ilha de Man,230.0,805.0,2021,Brasil
+959,Ilha de Man,124.0,459.0,2022,Brasil
+960,Ilhas Virgens,0.0,0.0,2008,Brasil
+961,Ilhas Virgens,0.0,0.0,2009,Brasil
+962,Ilhas Virgens,0.0,0.0,2010,Brasil
+963,Ilhas Virgens,0.0,0.0,2011,Brasil
+964,Ilhas Virgens,0.0,0.0,2012,Brasil
+965,Ilhas Virgens,0.0,0.0,2013,Brasil
+966,Ilhas Virgens,0.0,0.0,2014,Brasil
+967,Ilhas Virgens,0.0,0.0,2015,Brasil
+968,Ilhas Virgens,0.0,0.0,2016,Brasil
+969,Ilhas Virgens,0.0,0.0,2017,Brasil
+970,Ilhas Virgens,0.0,0.0,2018,Brasil
+971,Ilhas Virgens,0.0,0.0,2019,Brasil
+972,Ilhas Virgens,0.0,0.0,2020,Brasil
+973,Ilhas Virgens,0.0,0.0,2021,Brasil
+974,Ilhas Virgens,0.0,0.0,2022,Brasil
+975,Índia,0.0,0.0,2008,Brasil
+976,Índia,0.0,0.0,2009,Brasil
+977,Índia,0.0,0.0,2010,Brasil
+978,Índia,0.0,0.0,2011,Brasil
+979,Índia,0.0,0.0,2012,Brasil
+980,Índia,0.0,0.0,2013,Brasil
+981,Índia,0.0,0.0,2014,Brasil
+982,Índia,0.0,0.0,2015,Brasil
+983,Índia,0.0,0.0,2016,Brasil
+984,Índia,0.0,0.0,2017,Brasil
+985,Índia,341.0,684.0,2018,Brasil
+986,Índia,560.0,1634.0,2019,Brasil
+987,Índia,502.0,1167.0,2020,Brasil
+988,Índia,423.0,1020.0,2021,Brasil
+989,Índia,548.0,1576.0,2022,Brasil
+990,Indonésia,0.0,0.0,2008,Brasil
+991,Indonésia,0.0,0.0,2009,Brasil
+992,Indonésia,0.0,0.0,2010,Brasil
+993,Indonésia,0.0,0.0,2011,Brasil
+994,Indonésia,0.0,0.0,2012,Brasil
+995,Indonésia,0.0,0.0,2013,Brasil
+996,Indonésia,0.0,0.0,2014,Brasil
+997,Indonésia,0.0,0.0,2015,Brasil
+998,Indonésia,0.0,0.0,2016,Brasil
+999,Indonésia,0.0,0.0,2017,Brasil
+1000,Indonésia,0.0,0.0,2018,Brasil
+1001,Indonésia,0.0,0.0,2019,Brasil
+1002,Indonésia,13.0,40.0,2020,Brasil
+1003,Indonésia,0.0,0.0,2021,Brasil
+1004,Indonésia,40.0,103.0,2022,Brasil
+1005,Irã,0.0,0.0,2008,Brasil
+1006,Irã,0.0,0.0,2009,Brasil
+1007,Irã,0.0,0.0,2010,Brasil
+1008,Irã,0.0,0.0,2011,Brasil
+1009,Irã,0.0,0.0,2012,Brasil
+1010,Irã,0.0,0.0,2013,Brasil
+1011,Irã,0.0,0.0,2014,Brasil
+1012,Irã,0.0,0.0,2015,Brasil
+1013,Irã,0.0,0.0,2016,Brasil
+1014,Irã,0.0,0.0,2017,Brasil
+1015,Irã,0.0,0.0,2018,Brasil
+1016,Irã,509.0,1013.0,2019,Brasil
+1017,Irã,218.0,531.0,2020,Brasil
+1018,Irã,230.0,481.0,2021,Brasil
+1019,Irã,70.0,182.0,2022,Brasil
+1020,Irlanda,764178.0,2288680.0,2008,Brasil
+1021,Irlanda,628605.0,2110422.0,2009,Brasil
+1022,Irlanda,220120.0,653560.0,2010,Brasil
+1023,Irlanda,88760.0,135771.0,2011,Brasil
+1024,Irlanda,61300.0,56563.0,2012,Brasil
+1025,Irlanda,80500.0,98900.0,2013,Brasil
+1026,Irlanda,0.0,0.0,2014,Brasil
+1027,Irlanda,0.0,0.0,2015,Brasil
+1028,Irlanda,162885.0,433477.0,2016,Brasil
+1029,Irlanda,199402.0,565158.0,2017,Brasil
+1030,Irlanda,143330.0,243068.0,2018,Brasil
+1031,Irlanda,514814.0,1113084.0,2019,Brasil
+1032,Irlanda,805090.0,1768519.0,2020,Brasil
+1033,Irlanda,1493198.0,3331821.0,2021,Brasil
+1034,Irlanda,1412302.0,3175487.0,2022,Brasil
+1035,Islandia,0.0,0.0,2008,Brasil
+1036,Islandia,0.0,0.0,2009,Brasil
+1037,Islandia,0.0,0.0,2010,Brasil
+1038,Islandia,0.0,0.0,2011,Brasil
+1039,Islandia,0.0,0.0,2012,Brasil
+1040,Islandia,0.0,0.0,2013,Brasil
+1041,Islandia,0.0,0.0,2014,Brasil
+1042,Islandia,0.0,0.0,2015,Brasil
+1043,Islandia,12000.0,36321.0,2016,Brasil
+1044,Islandia,0.0,0.0,2017,Brasil
+1045,Islandia,13000.0,20725.0,2018,Brasil
+1046,Islandia,0.0,0.0,2019,Brasil
+1047,Islandia,40.0,61.0,2020,Brasil
+1048,Islandia,0.0,0.0,2021,Brasil
+1049,Islandia,0.0,0.0,2022,Brasil
+1050,Itália,145500.0,433464.0,2008,Brasil
+1051,Itália,103500.0,399731.0,2009,Brasil
+1052,Itália,115000.0,381261.0,2010,Brasil
+1053,Itália,115000.0,315501.0,2011,Brasil
+1054,Itália,118705.0,383214.0,2012,Brasil
+1055,Itália,48000.0,144696.0,2013,Brasil
+1056,Itália,0.0,0.0,2014,Brasil
+1057,Itália,0.0,0.0,2015,Brasil
+1058,Itália,0.0,0.0,2016,Brasil
+1059,Itália,0.0,0.0,2017,Brasil
+1060,Itália,28.0,94.0,2018,Brasil
+1061,Itália,154.0,387.0,2019,Brasil
+1062,Itália,118.0,301.0,2020,Brasil
+1063,Itália,10095.0,22820.0,2021,Brasil
+1064,Itália,269.0,984.0,2022,Brasil
+1065,Japão,0.0,0.0,2008,Brasil
+1066,Japão,0.0,0.0,2009,Brasil
+1067,Japão,0.0,0.0,2010,Brasil
+1068,Japão,0.0,0.0,2011,Brasil
+1069,Japão,0.0,0.0,2012,Brasil
+1070,Japão,0.0,0.0,2013,Brasil
+1071,Japão,0.0,0.0,2014,Brasil
+1072,Japão,0.0,0.0,2015,Brasil
+1073,Japão,0.0,0.0,2016,Brasil
+1074,Japão,0.0,0.0,2017,Brasil
+1075,Japão,239.0,840.0,2018,Brasil
+1076,Japão,721.0,2182.0,2019,Brasil
+1077,Japão,779.0,2157.0,2020,Brasil
+1078,Japão,476.0,1376.0,2021,Brasil
+1079,Japão,377.0,1270.0,2022,Brasil
+1080,Jérsei,0.0,0.0,2008,Brasil
+1081,Jérsei,0.0,0.0,2009,Brasil
+1082,Jérsei,0.0,0.0,2010,Brasil
+1083,Jérsei,0.0,0.0,2011,Brasil
+1084,Jérsei,0.0,0.0,2012,Brasil
+1085,Jérsei,0.0,0.0,2013,Brasil
+1086,Jérsei,0.0,0.0,2014,Brasil
+1087,Jérsei,0.0,0.0,2015,Brasil
+1088,Jérsei,0.0,0.0,2016,Brasil
+1089,Jérsei,0.0,0.0,2017,Brasil
+1090,Jérsei,0.0,0.0,2018,Brasil
+1091,Jérsei,24.0,58.0,2019,Brasil
+1092,Jérsei,0.0,0.0,2020,Brasil
+1093,Jérsei,0.0,0.0,2021,Brasil
+1094,Jérsei,0.0,0.0,2022,Brasil
+1095,Jordânia,0.0,0.0,2008,Brasil
+1096,Jordânia,0.0,0.0,2009,Brasil
+1097,Jordânia,0.0,0.0,2010,Brasil
+1098,Jordânia,0.0,0.0,2011,Brasil
+1099,Jordânia,0.0,0.0,2012,Brasil
+1100,Jordânia,0.0,0.0,2013,Brasil
+1101,Jordânia,0.0,0.0,2014,Brasil
+1102,Jordânia,0.0,0.0,2015,Brasil
+1103,Jordânia,0.0,0.0,2016,Brasil
+1104,Jordânia,0.0,0.0,2017,Brasil
+1105,Jordânia,0.0,0.0,2018,Brasil
+1106,Jordânia,265.0,171.0,2019,Brasil
+1107,Jordânia,31.0,75.0,2020,Brasil
+1108,Jordânia,0.0,0.0,2021,Brasil
+1109,Jordânia,40.0,116.0,2022,Brasil
+1110,Letonia,0.0,0.0,2008,Brasil
+1111,Letonia,0.0,0.0,2009,Brasil
+1112,Letonia,32400.0,86769.0,2010,Brasil
+1113,Letonia,0.0,0.0,2011,Brasil
+1114,Letonia,0.0,0.0,2012,Brasil
+1115,Letonia,0.0,0.0,2013,Brasil
+1116,Letonia,0.0,0.0,2014,Brasil
+1117,Letonia,0.0,0.0,2015,Brasil
+1118,Letonia,0.0,0.0,2016,Brasil
+1119,Letonia,0.0,0.0,2017,Brasil
+1120,Letonia,0.0,0.0,2018,Brasil
+1121,Letonia,30.0,55.0,2019,Brasil
+1122,Letonia,40.0,102.0,2020,Brasil
+1123,Letonia,0.0,0.0,2021,Brasil
+1124,Letonia,20.0,84.0,2022,Brasil
+1125,Líbano,0.0,0.0,2008,Brasil
+1126,Líbano,0.0,0.0,2009,Brasil
+1127,Líbano,0.0,0.0,2010,Brasil
+1128,Líbano,0.0,0.0,2011,Brasil
+1129,Líbano,0.0,0.0,2012,Brasil
+1130,Líbano,0.0,0.0,2013,Brasil
+1131,Líbano,0.0,0.0,2014,Brasil
+1132,Líbano,0.0,0.0,2015,Brasil
+1133,Líbano,0.0,0.0,2016,Brasil
+1134,Líbano,0.0,0.0,2017,Brasil
+1135,Líbano,0.0,0.0,2018,Brasil
+1136,Líbano,85.0,177.0,2019,Brasil
+1137,Líbano,33.0,119.0,2020,Brasil
+1138,Líbano,25.0,65.0,2021,Brasil
+1139,Líbano,0.0,0.0,2022,Brasil
+1140,Libéria,0.0,0.0,2008,Brasil
+1141,Libéria,0.0,0.0,2009,Brasil
+1142,Libéria,0.0,0.0,2010,Brasil
+1143,Libéria,0.0,0.0,2011,Brasil
+1144,Libéria,0.0,0.0,2012,Brasil
+1145,Libéria,0.0,0.0,2013,Brasil
+1146,Libéria,0.0,0.0,2014,Brasil
+1147,Libéria,0.0,0.0,2015,Brasil
+1148,Libéria,0.0,0.0,2016,Brasil
+1149,Libéria,0.0,0.0,2017,Brasil
+1150,Libéria,1297.0,4183.0,2018,Brasil
+1151,Libéria,9242.0,29430.0,2019,Brasil
+1152,Libéria,10238.0,30285.0,2020,Brasil
+1153,Libéria,10468.0,33255.0,2021,Brasil
+1154,Libéria,10296.0,36932.0,2022,Brasil
+1155,Líbia,0.0,0.0,2008,Brasil
+1156,Líbia,0.0,0.0,2009,Brasil
+1157,Líbia,0.0,0.0,2010,Brasil
+1158,Líbia,0.0,0.0,2011,Brasil
+1159,Líbia,0.0,0.0,2012,Brasil
+1160,Líbia,0.0,0.0,2013,Brasil
+1161,Líbia,0.0,0.0,2014,Brasil
+1162,Líbia,0.0,0.0,2015,Brasil
+1163,Líbia,0.0,0.0,2016,Brasil
+1164,Líbia,0.0,0.0,2017,Brasil
+1165,Líbia,0.0,0.0,2018,Brasil
+1166,Líbia,20.0,44.0,2019,Brasil
+1167,Líbia,20.0,55.0,2020,Brasil
+1168,Líbia,0.0,0.0,2021,Brasil
+1169,Líbia,0.0,0.0,2022,Brasil
+1170,Lituania,94212.0,175035.0,2008,Brasil
+1171,Lituania,45900.0,147364.0,2009,Brasil
+1172,Lituania,140380.0,340302.0,2010,Brasil
+1173,Lituania,114350.0,245434.0,2011,Brasil
+1174,Lituania,111944.0,302874.0,2012,Brasil
+1175,Lituania,119288.0,263523.0,2013,Brasil
+1176,Lituania,255411.0,534737.0,2014,Brasil
+1177,Lituania,133236.0,208166.0,2015,Brasil
+1178,Lituania,0.0,0.0,2016,Brasil
+1179,Lituania,0.0,0.0,2017,Brasil
+1180,Lituania,0.0,0.0,2018,Brasil
+1181,Lituania,0.0,0.0,2019,Brasil
+1182,Lituania,0.0,0.0,2020,Brasil
+1183,Lituania,15150.0,27340.0,2021,Brasil
+1184,Lituania,30168.0,65259.0,2022,Brasil
+1185,Luxemburgo,0.0,0.0,2008,Brasil
+1186,Luxemburgo,0.0,0.0,2009,Brasil
+1187,Luxemburgo,0.0,0.0,2010,Brasil
+1188,Luxemburgo,0.0,0.0,2011,Brasil
+1189,Luxemburgo,4320.0,15993.0,2012,Brasil
+1190,Luxemburgo,0.0,0.0,2013,Brasil
+1191,Luxemburgo,0.0,0.0,2014,Brasil
+1192,Luxemburgo,0.0,0.0,2015,Brasil
+1193,Luxemburgo,0.0,0.0,2016,Brasil
+1194,Luxemburgo,1416.0,2074.0,2017,Brasil
+1195,Luxemburgo,0.0,0.0,2018,Brasil
+1196,Luxemburgo,7.0,19.0,2019,Brasil
+1197,Luxemburgo,0.0,0.0,2020,Brasil
+1198,Luxemburgo,0.0,0.0,2021,Brasil
+1199,Luxemburgo,53.0,242.0,2022,Brasil
+1200,Malasia,0.0,0.0,2008,Brasil
+1201,Malasia,0.0,0.0,2009,Brasil
+1202,Malasia,0.0,0.0,2010,Brasil
+1203,Malasia,0.0,0.0,2011,Brasil
+1204,Malasia,0.0,0.0,2012,Brasil
+1205,Malasia,0.0,0.0,2013,Brasil
+1206,Malasia,0.0,0.0,2014,Brasil
+1207,Malasia,0.0,0.0,2015,Brasil
+1208,Malasia,0.0,0.0,2016,Brasil
+1209,Malasia,0.0,0.0,2017,Brasil
+1210,Malasia,30.0,101.0,2018,Brasil
+1211,Malasia,20.0,58.0,2019,Brasil
+1212,Malasia,2065.0,30729.0,2020,Brasil
+1213,Malasia,1159.0,13671.0,2021,Brasil
+1214,Malasia,70.0,276.0,2022,Brasil
+1215,Malta,0.0,0.0,2008,Brasil
+1216,Malta,0.0,0.0,2009,Brasil
+1217,Malta,0.0,0.0,2010,Brasil
+1218,Malta,0.0,0.0,2011,Brasil
+1219,Malta,0.0,0.0,2012,Brasil
+1220,Malta,0.0,0.0,2013,Brasil
+1221,Malta,0.0,0.0,2014,Brasil
+1222,Malta,0.0,0.0,2015,Brasil
+1223,Malta,0.0,0.0,2016,Brasil
+1224,Malta,0.0,0.0,2017,Brasil
+1225,Malta,689.0,1720.0,2018,Brasil
+1226,Malta,4094.0,11635.0,2019,Brasil
+1227,Malta,4282.0,11606.0,2020,Brasil
+1228,Malta,5445.0,15854.0,2021,Brasil
+1229,Malta,3766.0,13755.0,2022,Brasil
+1230,Marrocos,0.0,0.0,2008,Brasil
+1231,Marrocos,0.0,0.0,2009,Brasil
+1232,Marrocos,0.0,0.0,2010,Brasil
+1233,Marrocos,0.0,0.0,2011,Brasil
+1234,Marrocos,0.0,0.0,2012,Brasil
+1235,Marrocos,0.0,0.0,2013,Brasil
+1236,Marrocos,0.0,0.0,2014,Brasil
+1237,Marrocos,0.0,0.0,2015,Brasil
+1238,Marrocos,0.0,0.0,2016,Brasil
+1239,Marrocos,0.0,0.0,2017,Brasil
+1240,Marrocos,0.0,0.0,2018,Brasil
+1241,Marrocos,0.0,0.0,2019,Brasil
+1242,Marrocos,8.0,22.0,2020,Brasil
+1243,Marrocos,10.0,34.0,2021,Brasil
+1244,Marrocos,20.0,66.0,2022,Brasil
+1245,"Marshall, Ilhas",0.0,0.0,2008,Brasil
+1246,"Marshall, Ilhas",0.0,0.0,2009,Brasil
+1247,"Marshall, Ilhas",0.0,0.0,2010,Brasil
+1248,"Marshall, Ilhas",0.0,0.0,2011,Brasil
+1249,"Marshall, Ilhas",0.0,0.0,2012,Brasil
+1250,"Marshall, Ilhas",0.0,0.0,2013,Brasil
+1251,"Marshall, Ilhas",0.0,0.0,2014,Brasil
+1252,"Marshall, Ilhas",0.0,0.0,2015,Brasil
+1253,"Marshall, Ilhas",0.0,0.0,2016,Brasil
+1254,"Marshall, Ilhas",0.0,0.0,2017,Brasil
+1255,"Marshall, Ilhas",1430.0,4184.0,2018,Brasil
+1256,"Marshall, Ilhas",9668.0,30841.0,2019,Brasil
+1257,"Marshall, Ilhas",13769.0,41407.0,2020,Brasil
+1258,"Marshall, Ilhas",12996.0,40008.0,2021,Brasil
+1259,"Marshall, Ilhas",14389.0,50525.0,2022,Brasil
+1260,Martinica,0.0,0.0,2008,Brasil
+1261,Martinica,0.0,0.0,2009,Brasil
+1262,Martinica,0.0,0.0,2010,Brasil
+1263,Martinica,0.0,0.0,2011,Brasil
+1264,Martinica,0.0,0.0,2012,Brasil
+1265,Martinica,0.0,0.0,2013,Brasil
+1266,Martinica,0.0,0.0,2014,Brasil
+1267,Martinica,0.0,0.0,2015,Brasil
+1268,Martinica,0.0,0.0,2016,Brasil
+1269,Martinica,0.0,0.0,2017,Brasil
+1270,Martinica,0.0,0.0,2018,Brasil
+1271,Martinica,0.0,0.0,2019,Brasil
+1272,Martinica,0.0,0.0,2020,Brasil
+1273,Martinica,0.0,0.0,2021,Brasil
+1274,Martinica,0.0,0.0,2022,Brasil
+1275,Mauricio,0.0,0.0,2008,Brasil
+1276,Mauricio,0.0,0.0,2009,Brasil
+1277,Mauricio,0.0,0.0,2010,Brasil
+1278,Mauricio,0.0,0.0,2011,Brasil
+1279,Mauricio,0.0,0.0,2012,Brasil
+1280,Mauricio,0.0,0.0,2013,Brasil
+1281,Mauricio,0.0,0.0,2014,Brasil
+1282,Mauricio,0.0,0.0,2015,Brasil
+1283,Mauricio,0.0,0.0,2016,Brasil
+1284,Mauricio,0.0,0.0,2017,Brasil
+1285,Mauricio,0.0,0.0,2018,Brasil
+1286,Mauricio,0.0,0.0,2019,Brasil
+1287,Mauricio,0.0,0.0,2020,Brasil
+1288,Mauricio,0.0,0.0,2021,Brasil
+1289,Mauricio,0.0,0.0,2022,Brasil
+1290,Mauritânia,0.0,0.0,2008,Brasil
+1291,Mauritânia,0.0,0.0,2009,Brasil
+1292,Mauritânia,0.0,0.0,2010,Brasil
+1293,Mauritânia,0.0,0.0,2011,Brasil
+1294,Mauritânia,0.0,0.0,2012,Brasil
+1295,Mauritânia,0.0,0.0,2013,Brasil
+1296,Mauritânia,0.0,0.0,2014,Brasil
+1297,Mauritânia,0.0,0.0,2015,Brasil
+1298,Mauritânia,0.0,0.0,2016,Brasil
+1299,Mauritânia,0.0,0.0,2017,Brasil
+1300,Mauritânia,0.0,0.0,2018,Brasil
+1301,Mauritânia,0.0,0.0,2019,Brasil
+1302,Mauritânia,0.0,0.0,2020,Brasil
+1303,Mauritânia,16.0,63.0,2021,Brasil
+1304,Mauritânia,0.0,0.0,2022,Brasil
+1305,Mexico,0.0,0.0,2008,Brasil
+1306,Mexico,0.0,0.0,2009,Brasil
+1307,Mexico,0.0,0.0,2010,Brasil
+1308,Mexico,0.0,0.0,2011,Brasil
+1309,Mexico,0.0,0.0,2012,Brasil
+1310,Mexico,0.0,0.0,2013,Brasil
+1311,Mexico,0.0,0.0,2014,Brasil
+1312,Mexico,0.0,0.0,2015,Brasil
+1313,Mexico,0.0,0.0,2016,Brasil
+1314,Mexico,0.0,0.0,2017,Brasil
+1315,Mexico,0.0,0.0,2018,Brasil
+1316,Mexico,0.0,0.0,2019,Brasil
+1317,Mexico,0.0,0.0,2020,Brasil
+1318,Mexico,0.0,0.0,2021,Brasil
+1319,Mexico,0.0,0.0,2022,Brasil
+1320,Mônaco,0.0,0.0,2008,Brasil
+1321,Mônaco,0.0,0.0,2009,Brasil
+1322,Mônaco,0.0,0.0,2010,Brasil
+1323,Mônaco,0.0,0.0,2011,Brasil
+1324,Mônaco,0.0,0.0,2012,Brasil
+1325,Mônaco,0.0,0.0,2013,Brasil
+1326,Mônaco,0.0,0.0,2014,Brasil
+1327,Mônaco,0.0,0.0,2015,Brasil
+1328,Mônaco,0.0,0.0,2016,Brasil
+1329,Mônaco,0.0,0.0,2017,Brasil
+1330,Mônaco,0.0,0.0,2018,Brasil
+1331,Mônaco,20.0,29.0,2019,Brasil
+1332,Mônaco,20.0,59.0,2020,Brasil
+1333,Mônaco,0.0,0.0,2021,Brasil
+1334,Mônaco,0.0,0.0,2022,Brasil
+1335,Mongólia,0.0,0.0,2008,Brasil
+1336,Mongólia,0.0,0.0,2009,Brasil
+1337,Mongólia,0.0,0.0,2010,Brasil
+1338,Mongólia,0.0,0.0,2011,Brasil
+1339,Mongólia,0.0,0.0,2012,Brasil
+1340,Mongólia,0.0,0.0,2013,Brasil
+1341,Mongólia,0.0,0.0,2014,Brasil
+1342,Mongólia,0.0,0.0,2015,Brasil
+1343,Mongólia,0.0,0.0,2016,Brasil
+1344,Mongólia,0.0,0.0,2017,Brasil
+1345,Mongólia,0.0,0.0,2018,Brasil
+1346,Mongólia,0.0,0.0,2019,Brasil
+1347,Mongólia,10.0,15.0,2020,Brasil
+1348,Mongólia,0.0,0.0,2021,Brasil
+1349,Mongólia,0.0,0.0,2022,Brasil
+1350,Montenegro,0.0,0.0,2008,Brasil
+1351,Montenegro,0.0,0.0,2009,Brasil
+1352,Montenegro,0.0,0.0,2010,Brasil
+1353,Montenegro,0.0,0.0,2011,Brasil
+1354,Montenegro,0.0,0.0,2012,Brasil
+1355,Montenegro,0.0,0.0,2013,Brasil
+1356,Montenegro,0.0,0.0,2014,Brasil
+1357,Montenegro,0.0,0.0,2015,Brasil
+1358,Montenegro,0.0,0.0,2016,Brasil
+1359,Montenegro,0.0,0.0,2017,Brasil
+1360,Montenegro,0.0,0.0,2018,Brasil
+1361,Montenegro,0.0,0.0,2019,Brasil
+1362,Montenegro,40.0,147.0,2020,Brasil
+1363,Montenegro,33.0,109.0,2021,Brasil
+1364,Montenegro,0.0,0.0,2022,Brasil
+1365,Nigéria,0.0,0.0,2008,Brasil
+1366,Nigéria,0.0,0.0,2009,Brasil
+1367,Nigéria,0.0,0.0,2010,Brasil
+1368,Nigéria,0.0,0.0,2011,Brasil
+1369,Nigéria,0.0,0.0,2012,Brasil
+1370,Nigéria,0.0,0.0,2013,Brasil
+1371,Nigéria,0.0,0.0,2014,Brasil
+1372,Nigéria,61200.0,82620.0,2015,Brasil
+1373,Nigéria,0.0,0.0,2016,Brasil
+1374,Nigéria,0.0,0.0,2017,Brasil
+1375,Nigéria,0.0,0.0,2018,Brasil
+1376,Nigéria,0.0,0.0,2019,Brasil
+1377,Nigéria,0.0,0.0,2020,Brasil
+1378,Nigéria,0.0,0.0,2021,Brasil
+1379,Nigéria,0.0,0.0,2022,Brasil
+1380,Noruega,1434054.0,4094121.0,2008,Brasil
+1381,Noruega,1406774.0,4007602.0,2009,Brasil
+1382,Noruega,1016725.0,2766991.0,2010,Brasil
+1383,Noruega,963990.0,2631452.0,2011,Brasil
+1384,Noruega,1273703.0,3748091.0,2012,Brasil
+1385,Noruega,1213647.0,3776488.0,2013,Brasil
+1386,Noruega,918992.0,2423945.0,2014,Brasil
+1387,Noruega,604000.0,1490491.0,2015,Brasil
+1388,Noruega,661500.0,1603529.0,2016,Brasil
+1389,Noruega,518000.0,1309866.0,2017,Brasil
+1390,Noruega,168732.0,381452.0,2018,Brasil
+1391,Noruega,277423.0,638830.0,2019,Brasil
+1392,Noruega,183232.0,572588.0,2020,Brasil
+1393,Noruega,255034.0,631068.0,2021,Brasil
+1394,Noruega,381020.0,594883.0,2022,Brasil
+1395,Omã,0.0,0.0,2008,Brasil
+1396,Omã,0.0,0.0,2009,Brasil
+1397,Omã,0.0,0.0,2010,Brasil
+1398,Omã,0.0,0.0,2011,Brasil
+1399,Omã,0.0,0.0,2012,Brasil
+1400,Omã,0.0,0.0,2013,Brasil
+1401,Omã,0.0,0.0,2014,Brasil
+1402,Omã,0.0,0.0,2015,Brasil
+1403,Omã,0.0,0.0,2016,Brasil
+1404,Omã,0.0,0.0,2017,Brasil
+1405,Omã,0.0,0.0,2018,Brasil
+1406,Omã,60.0,193.0,2019,Brasil
+1407,Omã,43.0,234.0,2020,Brasil
+1408,Omã,0.0,0.0,2021,Brasil
+1409,Omã,100.0,311.0,2022,Brasil
+1410,Países Baixos,34413288.0,65227215.0,2008,Brasil
+1411,Países Baixos,22662669.0,44184938.0,2009,Brasil
+1412,Países Baixos,26149217.0,58803505.0,2010,Brasil
+1413,Países Baixos,25334471.0,56063878.0,2011,Brasil
+1414,Países Baixos,26638825.0,61694552.0,2012,Brasil
+1415,Países Baixos,20822086.0,48735513.0,2013,Brasil
+1416,Países Baixos,14927182.0,33260983.0,2014,Brasil
+1417,Países Baixos,17860220.0,34025630.0,2015,Brasil
+1418,Países Baixos,16136676.0,32374970.0,2016,Brasil
+1419,Países Baixos,24328153.0,50499751.0,2017,Brasil
+1420,Países Baixos,22330171.0,46725512.0,2018,Brasil
+1421,Países Baixos,19526035.0,36061578.0,2019,Brasil
+1422,Países Baixos,20360309.0,40052845.0,2020,Brasil
+1423,Países Baixos,32469515.0,59035980.0,2021,Brasil
+1424,Países Baixos,18874963.0,36345317.0,2022,Brasil
+1425,Panamá,0.0,0.0,2008,Brasil
+1426,Panamá,0.0,0.0,2009,Brasil
+1427,Panamá,0.0,0.0,2010,Brasil
+1428,Panamá,0.0,0.0,2011,Brasil
+1429,Panamá,0.0,0.0,2012,Brasil
+1430,Panamá,0.0,0.0,2013,Brasil
+1431,Panamá,0.0,0.0,2014,Brasil
+1432,Panamá,0.0,0.0,2015,Brasil
+1433,Panamá,0.0,0.0,2016,Brasil
+1434,Panamá,0.0,0.0,2017,Brasil
+1435,Panamá,1675.0,5358.0,2018,Brasil
+1436,Panamá,8349.0,25288.0,2019,Brasil
+1437,Panamá,10170.0,25834.0,2020,Brasil
+1438,Panamá,10378.0,29282.0,2021,Brasil
+1439,Panamá,10006.0,34309.0,2022,Brasil
+1440,Paquistão,0.0,0.0,2008,Brasil
+1441,Paquistão,0.0,0.0,2009,Brasil
+1442,Paquistão,0.0,0.0,2010,Brasil
+1443,Paquistão,0.0,0.0,2011,Brasil
+1444,Paquistão,0.0,0.0,2012,Brasil
+1445,Paquistão,0.0,0.0,2013,Brasil
+1446,Paquistão,0.0,0.0,2014,Brasil
+1447,Paquistão,0.0,0.0,2015,Brasil
+1448,Paquistão,0.0,0.0,2016,Brasil
+1449,Paquistão,0.0,0.0,2017,Brasil
+1450,Paquistão,0.0,0.0,2018,Brasil
+1451,Paquistão,0.0,0.0,2019,Brasil
+1452,Paquistão,0.0,0.0,2020,Brasil
+1453,Paquistão,48.0,108.0,2021,Brasil
+1454,Paquistão,50.0,206.0,2022,Brasil
+1455,Paraguai,0.0,0.0,2008,Brasil
+1456,Paraguai,0.0,0.0,2009,Brasil
+1457,Paraguai,577.0,1035.0,2010,Brasil
+1458,Paraguai,0.0,0.0,2011,Brasil
+1459,Paraguai,2005.0,4205.0,2012,Brasil
+1460,Paraguai,0.0,0.0,2013,Brasil
+1461,Paraguai,0.0,0.0,2014,Brasil
+1462,Paraguai,0.0,0.0,2015,Brasil
+1463,Paraguai,0.0,0.0,2016,Brasil
+1464,Paraguai,0.0,0.0,2017,Brasil
+1465,Paraguai,0.0,0.0,2018,Brasil
+1466,Paraguai,0.0,0.0,2019,Brasil
+1467,Paraguai,3750.0,2881.0,2020,Brasil
+1468,Paraguai,450.0,104.0,2021,Brasil
+1469,Paraguai,0.0,0.0,2022,Brasil
+1470,Polonia,0.0,0.0,2008,Brasil
+1471,Polonia,0.0,0.0,2009,Brasil
+1472,Polonia,0.0,0.0,2010,Brasil
+1473,Polonia,0.0,0.0,2011,Brasil
+1474,Polonia,0.0,0.0,2012,Brasil
+1475,Polonia,0.0,0.0,2013,Brasil
+1476,Polonia,0.0,0.0,2014,Brasil
+1477,Polonia,0.0,0.0,2015,Brasil
+1478,Polonia,0.0,0.0,2016,Brasil
+1479,Polonia,0.0,0.0,2017,Brasil
+1480,Polonia,0.0,0.0,2018,Brasil
+1481,Polonia,20.0,53.0,2019,Brasil
+1482,Polonia,4.0,7.0,2020,Brasil
+1483,Polonia,162.0,445.0,2021,Brasil
+1484,Polonia,20.0,50.0,2022,Brasil
+1485,Porto Rico,0.0,0.0,2008,Brasil
+1486,Porto Rico,0.0,0.0,2009,Brasil
+1487,Porto Rico,0.0,0.0,2010,Brasil
+1488,Porto Rico,0.0,0.0,2011,Brasil
+1489,Porto Rico,0.0,0.0,2012,Brasil
+1490,Porto Rico,0.0,0.0,2013,Brasil
+1491,Porto Rico,0.0,0.0,2014,Brasil
+1492,Porto Rico,0.0,0.0,2015,Brasil
+1493,Porto Rico,0.0,0.0,2016,Brasil
+1494,Porto Rico,0.0,0.0,2017,Brasil
+1495,Porto Rico,0.0,0.0,2018,Brasil
+1496,Porto Rico,0.0,0.0,2019,Brasil
+1497,Porto Rico,0.0,0.0,2020,Brasil
+1498,Porto Rico,0.0,0.0,2021,Brasil
+1499,Porto Rico,0.0,0.0,2022,Brasil
+1500,Portugal,0.0,0.0,2008,Brasil
+1501,Portugal,0.0,0.0,2009,Brasil
+1502,Portugal,0.0,0.0,2010,Brasil
+1503,Portugal,18.0,28.0,2011,Brasil
+1504,Portugal,0.0,0.0,2012,Brasil
+1505,Portugal,10.0,11.0,2013,Brasil
+1506,Portugal,0.0,0.0,2014,Brasil
+1507,Portugal,0.0,0.0,2015,Brasil
+1508,Portugal,0.0,0.0,2016,Brasil
+1509,Portugal,13155.0,21707.0,2017,Brasil
+1510,Portugal,205.0,676.0,2018,Brasil
+1511,Portugal,945.0,3146.0,2019,Brasil
+1512,Portugal,15803.0,26426.0,2020,Brasil
+1513,Portugal,1525.0,4961.0,2021,Brasil
+1514,Portugal,1943.0,7713.0,2022,Brasil
+1515,Reino Unido,18580726.0,38772121.0,2008,Brasil
+1516,Reino Unido,13299002.0,27473174.0,2009,Brasil
+1517,Reino Unido,15023635.0,32927215.0,2010,Brasil
+1518,Reino Unido,13266351.0,31910142.0,2011,Brasil
+1519,Reino Unido,12426198.0,30179689.0,2012,Brasil
+1520,Reino Unido,13294489.0,32153501.0,2013,Brasil
+1521,Reino Unido,8957593.0,22621039.0,2014,Brasil
+1522,Reino Unido,9569389.0,22726525.0,2015,Brasil
+1523,Reino Unido,7619756.0,16444532.0,2016,Brasil
+1524,Reino Unido,9034528.0,20326592.0,2017,Brasil
+1525,Reino Unido,8558646.0,20872314.0,2018,Brasil
+1526,Reino Unido,13501346.0,29677591.0,2019,Brasil
+1527,Reino Unido,13978476.0,31486021.0,2020,Brasil
+1528,Reino Unido,16631939.0,37513697.0,2021,Brasil
+1529,Reino Unido,0.0,0.0,2022,Brasil
+1530,Republica Dominicana,0.0,0.0,2008,Brasil
+1531,Republica Dominicana,0.0,0.0,2009,Brasil
+1532,Republica Dominicana,0.0,0.0,2010,Brasil
+1533,Republica Dominicana,0.0,0.0,2011,Brasil
+1534,Republica Dominicana,0.0,0.0,2012,Brasil
+1535,Republica Dominicana,0.0,0.0,2013,Brasil
+1536,Republica Dominicana,0.0,0.0,2014,Brasil
+1537,Republica Dominicana,0.0,0.0,2015,Brasil
+1538,Republica Dominicana,0.0,0.0,2016,Brasil
+1539,Republica Dominicana,0.0,0.0,2017,Brasil
+1540,Republica Dominicana,0.0,0.0,2018,Brasil
+1541,Republica Dominicana,0.0,0.0,2019,Brasil
+1542,Republica Dominicana,0.0,0.0,2020,Brasil
+1543,Republica Dominicana,0.0,0.0,2021,Brasil
+1544,Republica Dominicana,0.0,0.0,2022,Brasil
+1545,Romênia,0.0,0.0,2008,Brasil
+1546,Romênia,0.0,0.0,2009,Brasil
+1547,Romênia,0.0,0.0,2010,Brasil
+1548,Romênia,0.0,0.0,2011,Brasil
+1549,Romênia,0.0,0.0,2012,Brasil
+1550,Romênia,0.0,0.0,2013,Brasil
+1551,Romênia,0.0,0.0,2014,Brasil
+1552,Romênia,0.0,0.0,2015,Brasil
+1553,Romênia,0.0,0.0,2016,Brasil
+1554,Romênia,0.0,0.0,2017,Brasil
+1555,Romênia,40.0,172.0,2018,Brasil
+1556,Romênia,0.0,0.0,2019,Brasil
+1557,Romênia,0.0,0.0,2020,Brasil
+1558,Romênia,0.0,0.0,2021,Brasil
+1559,Romênia,13194790.0,28569636.0,2022,Brasil
+1560,Rússia,873977.0,1853317.0,2008,Brasil
+1561,Rússia,31488.0,70848.0,2009,Brasil
+1562,Rússia,301102.0,758660.0,2010,Brasil
+1563,Rússia,501930.0,893448.0,2011,Brasil
+1564,Rússia,45320.0,104620.0,2012,Brasil
+1565,Rússia,61440.0,176640.0,2013,Brasil
+1566,Rússia,66912.0,150552.0,2014,Brasil
+1567,Rússia,208715.0,335657.0,2015,Brasil
+1568,Rússia,0.0,0.0,2016,Brasil
+1569,Rússia,199140.0,477800.0,2017,Brasil
+1570,Rússia,80.0,454.0,2018,Brasil
+1571,Rússia,48084.0,101082.0,2019,Brasil
+1572,Rússia,216906.0,472154.0,2020,Brasil
+1573,Rússia,283727.0,662540.0,2021,Brasil
+1574,Rússia,14440.0,32576.0,2022,Brasil
+1575,Samoa Americana,0.0,0.0,2008,Brasil
+1576,Samoa Americana,0.0,0.0,2009,Brasil
+1577,Samoa Americana,0.0,0.0,2010,Brasil
+1578,Samoa Americana,0.0,0.0,2011,Brasil
+1579,Samoa Americana,0.0,0.0,2012,Brasil
+1580,Samoa Americana,0.0,0.0,2013,Brasil
+1581,Samoa Americana,0.0,0.0,2014,Brasil
+1582,Samoa Americana,0.0,0.0,2015,Brasil
+1583,Samoa Americana,0.0,0.0,2016,Brasil
+1584,Samoa Americana,0.0,0.0,2017,Brasil
+1585,Samoa Americana,0.0,0.0,2018,Brasil
+1586,Samoa Americana,0.0,0.0,2019,Brasil
+1587,Samoa Americana,0.0,0.0,2020,Brasil
+1588,Samoa Americana,0.0,0.0,2021,Brasil
+1589,Samoa Americana,8.0,18.0,2022,Brasil
+1590,São Tomé e Principe,0.0,0.0,2008,Brasil
+1591,São Tomé e Principe,0.0,0.0,2009,Brasil
+1592,São Tomé e Principe,0.0,0.0,2010,Brasil
+1593,São Tomé e Principe,0.0,0.0,2011,Brasil
+1594,São Tomé e Principe,0.0,0.0,2012,Brasil
+1595,São Tomé e Principe,0.0,0.0,2013,Brasil
+1596,São Tomé e Principe,0.0,0.0,2014,Brasil
+1597,São Tomé e Principe,0.0,0.0,2015,Brasil
+1598,São Tomé e Principe,0.0,0.0,2016,Brasil
+1599,São Tomé e Principe,0.0,0.0,2017,Brasil
+1600,São Tomé e Principe,0.0,0.0,2018,Brasil
+1601,São Tomé e Principe,0.0,0.0,2019,Brasil
+1602,São Tomé e Principe,0.0,0.0,2020,Brasil
+1603,São Tomé e Principe,0.0,0.0,2021,Brasil
+1604,São Tomé e Principe,0.0,0.0,2022,Brasil
+1605,São Vicente e Granadinas,0.0,0.0,2008,Brasil
+1606,São Vicente e Granadinas,0.0,0.0,2009,Brasil
+1607,São Vicente e Granadinas,0.0,0.0,2010,Brasil
+1608,São Vicente e Granadinas,0.0,0.0,2011,Brasil
+1609,São Vicente e Granadinas,0.0,0.0,2012,Brasil
+1610,São Vicente e Granadinas,0.0,0.0,2013,Brasil
+1611,São Vicente e Granadinas,0.0,0.0,2014,Brasil
+1612,São Vicente e Granadinas,0.0,0.0,2015,Brasil
+1613,São Vicente e Granadinas,0.0,0.0,2016,Brasil
+1614,São Vicente e Granadinas,0.0,0.0,2017,Brasil
+1615,São Vicente e Granadinas,0.0,0.0,2018,Brasil
+1616,São Vicente e Granadinas,0.0,0.0,2019,Brasil
+1617,São Vicente e Granadinas,20.0,69.0,2020,Brasil
+1618,São Vicente e Granadinas,19.0,78.0,2021,Brasil
+1619,São Vicente e Granadinas,53.0,163.0,2022,Brasil
+1620,Serra Leoa,0.0,0.0,2008,Brasil
+1621,Serra Leoa,0.0,0.0,2009,Brasil
+1622,Serra Leoa,0.0,0.0,2010,Brasil
+1623,Serra Leoa,0.0,0.0,2011,Brasil
+1624,Serra Leoa,0.0,0.0,2012,Brasil
+1625,Serra Leoa,0.0,0.0,2013,Brasil
+1626,Serra Leoa,0.0,0.0,2014,Brasil
+1627,Serra Leoa,0.0,0.0,2015,Brasil
+1628,Serra Leoa,0.0,0.0,2016,Brasil
+1629,Serra Leoa,0.0,0.0,2017,Brasil
+1630,Serra Leoa,0.0,0.0,2018,Brasil
+1631,Serra Leoa,0.0,0.0,2019,Brasil
+1632,Serra Leoa,0.0,0.0,2020,Brasil
+1633,Serra Leoa,0.0,0.0,2021,Brasil
+1634,Serra Leoa,1.0,4.0,2022,Brasil
+1635,Senegal,0.0,0.0,2008,Brasil
+1636,Senegal,0.0,0.0,2009,Brasil
+1637,Senegal,0.0,0.0,2010,Brasil
+1638,Senegal,0.0,0.0,2011,Brasil
+1639,Senegal,0.0,0.0,2012,Brasil
+1640,Senegal,0.0,0.0,2013,Brasil
+1641,Senegal,0.0,0.0,2014,Brasil
+1642,Senegal,0.0,0.0,2015,Brasil
+1643,Senegal,0.0,0.0,2016,Brasil
+1644,Senegal,0.0,0.0,2017,Brasil
+1645,Senegal,0.0,0.0,2018,Brasil
+1646,Senegal,0.0,0.0,2019,Brasil
+1647,Senegal,0.0,0.0,2020,Brasil
+1648,Senegal,10.0,30.0,2021,Brasil
+1649,Senegal,0.0,0.0,2022,Brasil
+1650,Singapura,0.0,0.0,2008,Brasil
+1651,Singapura,0.0,0.0,2009,Brasil
+1652,Singapura,0.0,0.0,2010,Brasil
+1653,Singapura,0.0,0.0,2011,Brasil
+1654,Singapura,0.0,0.0,2012,Brasil
+1655,Singapura,0.0,0.0,2013,Brasil
+1656,Singapura,0.0,0.0,2014,Brasil
+1657,Singapura,0.0,0.0,2015,Brasil
+1658,Singapura,0.0,0.0,2016,Brasil
+1659,Singapura,0.0,0.0,2017,Brasil
+1660,Singapura,0.0,0.0,2018,Brasil
+1661,Singapura,0.0,0.0,2019,Brasil
+1662,Singapura,0.0,0.0,2020,Brasil
+1663,Singapura,18086.0,139714.0,2021,Brasil
+1664,Singapura,16664.0,140893.0,2022,Brasil
+1665,Sri Lanka,0.0,0.0,2008,Brasil
+1666,Sri Lanka,0.0,0.0,2009,Brasil
+1667,Sri Lanka,0.0,0.0,2010,Brasil
+1668,Sri Lanka,0.0,0.0,2011,Brasil
+1669,Sri Lanka,0.0,0.0,2012,Brasil
+1670,Sri Lanka,0.0,0.0,2013,Brasil
+1671,Sri Lanka,0.0,0.0,2014,Brasil
+1672,Sri Lanka,0.0,0.0,2015,Brasil
+1673,Sri Lanka,0.0,0.0,2016,Brasil
+1674,Sri Lanka,0.0,0.0,2017,Brasil
+1675,Sri Lanka,0.0,0.0,2018,Brasil
+1676,Sri Lanka,32.0,80.0,2019,Brasil
+1677,Sri Lanka,0.0,0.0,2020,Brasil
+1678,Sri Lanka,0.0,0.0,2021,Brasil
+1679,Sri Lanka,0.0,0.0,2022,Brasil
+1680,Suécia,246711.0,546159.0,2008,Brasil
+1681,Suécia,161000.0,380804.0,2009,Brasil
+1682,Suécia,368010.0,859539.0,2010,Brasil
+1683,Suécia,240313.0,422429.0,2011,Brasil
+1684,Suécia,364265.0,1076257.0,2012,Brasil
+1685,Suécia,957936.0,2773969.0,2013,Brasil
+1686,Suécia,0.0,0.0,2014,Brasil
+1687,Suécia,89000.0,174394.0,2015,Brasil
+1688,Suécia,357380.0,772718.0,2016,Brasil
+1689,Suécia,249805.0,501518.0,2017,Brasil
+1690,Suécia,101350.0,211213.0,2018,Brasil
+1691,Suécia,72036.0,156611.0,2019,Brasil
+1692,Suécia,50.0,163.0,2020,Brasil
+1693,Suécia,30.0,110.0,2021,Brasil
+1694,Suécia,13.0,45.0,2022,Brasil
+1695,Suíça,0.0,0.0,2008,Brasil
+1696,Suíça,0.0,0.0,2009,Brasil
+1697,Suíça,0.0,0.0,2010,Brasil
+1698,Suíça,0.0,0.0,2011,Brasil
+1699,Suíça,0.0,0.0,2012,Brasil
+1700,Suíça,0.0,0.0,2013,Brasil
+1701,Suíça,0.0,0.0,2014,Brasil
+1702,Suíça,0.0,0.0,2015,Brasil
+1703,Suíça,0.0,0.0,2016,Brasil
+1704,Suíça,0.0,0.0,2017,Brasil
+1705,Suíça,1022.0,8624.0,2018,Brasil
+1706,Suíça,472.0,3661.0,2019,Brasil
+1707,Suíça,2209.0,20998.0,2020,Brasil
+1708,Suíça,3331.0,33507.0,2021,Brasil
+1709,Suíça,2604.0,32752.0,2022,Brasil
+1710,Suriname,0.0,0.0,2008,Brasil
+1711,Suriname,0.0,0.0,2009,Brasil
+1712,Suriname,0.0,0.0,2010,Brasil
+1713,Suriname,0.0,0.0,2011,Brasil
+1714,Suriname,0.0,0.0,2012,Brasil
+1715,Suriname,0.0,0.0,2013,Brasil
+1716,Suriname,0.0,0.0,2014,Brasil
+1717,Suriname,0.0,0.0,2015,Brasil
+1718,Suriname,0.0,0.0,2016,Brasil
+1719,Suriname,0.0,0.0,2017,Brasil
+1720,Suriname,0.0,0.0,2018,Brasil
+1721,Suriname,0.0,0.0,2019,Brasil
+1722,Suriname,0.0,0.0,2020,Brasil
+1723,Suriname,25.0,62.0,2021,Brasil
+1724,Suriname,0.0,0.0,2022,Brasil
+1725,Tailândia,0.0,0.0,2008,Brasil
+1726,Tailândia,0.0,0.0,2009,Brasil
+1727,Tailândia,0.0,0.0,2010,Brasil
+1728,Tailândia,0.0,0.0,2011,Brasil
+1729,Tailândia,0.0,0.0,2012,Brasil
+1730,Tailândia,0.0,0.0,2013,Brasil
+1731,Tailândia,0.0,0.0,2014,Brasil
+1732,Tailândia,0.0,0.0,2015,Brasil
+1733,Tailândia,0.0,0.0,2016,Brasil
+1734,Tailândia,0.0,0.0,2017,Brasil
+1735,Tailândia,113.0,495.0,2018,Brasil
+1736,Tailândia,879.0,3629.0,2019,Brasil
+1737,Tailândia,762.0,3001.0,2020,Brasil
+1738,Tailândia,746.0,2781.0,2021,Brasil
+1739,Tailândia,811.0,3426.0,2022,Brasil
+1740,Taiwan,0.0,0.0,2008,Brasil
+1741,Taiwan,0.0,0.0,2009,Brasil
+1742,Taiwan,0.0,0.0,2010,Brasil
+1743,Taiwan,0.0,0.0,2011,Brasil
+1744,Taiwan,0.0,0.0,2012,Brasil
+1745,Taiwan,0.0,0.0,2013,Brasil
+1746,Taiwan,0.0,0.0,2014,Brasil
+1747,Taiwan,0.0,0.0,2015,Brasil
+1748,Taiwan,0.0,0.0,2016,Brasil
+1749,Taiwan,0.0,0.0,2017,Brasil
+1750,Taiwan,39.0,115.0,2018,Brasil
+1751,Taiwan,0.0,0.0,2019,Brasil
+1752,Taiwan,90.0,242.0,2020,Brasil
+1753,Taiwan,72.0,280.0,2021,Brasil
+1754,Taiwan,40.0,123.0,2022,Brasil
+1755,Togo,0.0,0.0,2008,Brasil
+1756,Togo,0.0,0.0,2009,Brasil
+1757,Togo,0.0,0.0,2010,Brasil
+1758,Togo,0.0,0.0,2011,Brasil
+1759,Togo,0.0,0.0,2012,Brasil
+1760,Togo,0.0,0.0,2013,Brasil
+1761,Togo,0.0,0.0,2014,Brasil
+1762,Togo,0.0,0.0,2015,Brasil
+1763,Togo,0.0,0.0,2016,Brasil
+1764,Togo,0.0,0.0,2017,Brasil
+1765,Togo,0.0,0.0,2018,Brasil
+1766,Togo,13.0,52.0,2019,Brasil
+1767,Togo,0.0,0.0,2020,Brasil
+1768,Togo,0.0,0.0,2021,Brasil
+1769,Togo,0.0,0.0,2022,Brasil
+1770,Trindade e Tobago,0.0,0.0,2008,Brasil
+1771,Trindade e Tobago,0.0,0.0,2009,Brasil
+1772,Trindade e Tobago,0.0,0.0,2010,Brasil
+1773,Trindade e Tobago,0.0,0.0,2011,Brasil
+1774,Trindade e Tobago,0.0,0.0,2012,Brasil
+1775,Trindade e Tobago,0.0,0.0,2013,Brasil
+1776,Trindade e Tobago,0.0,0.0,2014,Brasil
+1777,Trindade e Tobago,0.0,0.0,2015,Brasil
+1778,Trindade e Tobago,0.0,0.0,2016,Brasil
+1779,Trindade e Tobago,0.0,0.0,2017,Brasil
+1780,Trindade e Tobago,0.0,0.0,2018,Brasil
+1781,Trindade e Tobago,0.0,0.0,2019,Brasil
+1782,Trindade e Tobago,0.0,0.0,2020,Brasil
+1783,Trindade e Tobago,0.0,0.0,2021,Brasil
+1784,Trindade e Tobago,0.0,0.0,2022,Brasil
+1785,"Turcas e Caicos, ilhas",0.0,0.0,2008,Brasil
+1786,"Turcas e Caicos, ilhas",0.0,0.0,2009,Brasil
+1787,"Turcas e Caicos, ilhas",0.0,0.0,2010,Brasil
+1788,"Turcas e Caicos, ilhas",0.0,0.0,2011,Brasil
+1789,"Turcas e Caicos, ilhas",0.0,0.0,2012,Brasil
+1790,"Turcas e Caicos, ilhas",0.0,0.0,2013,Brasil
+1791,"Turcas e Caicos, ilhas",0.0,0.0,2014,Brasil
+1792,"Turcas e Caicos, ilhas",0.0,0.0,2015,Brasil
+1793,"Turcas e Caicos, ilhas",0.0,0.0,2016,Brasil
+1794,"Turcas e Caicos, ilhas",0.0,0.0,2017,Brasil
+1795,"Turcas e Caicos, ilhas",0.0,0.0,2018,Brasil
+1796,"Turcas e Caicos, ilhas",10.0,23.0,2019,Brasil
+1797,"Turcas e Caicos, ilhas",18.0,51.0,2020,Brasil
+1798,"Turcas e Caicos, ilhas",0.0,0.0,2021,Brasil
+1799,"Turcas e Caicos, ilhas",0.0,0.0,2022,Brasil
+1800,Turquia,0.0,0.0,2008,Brasil
+1801,Turquia,0.0,0.0,2009,Brasil
+1802,Turquia,0.0,0.0,2010,Brasil
+1803,Turquia,0.0,0.0,2011,Brasil
+1804,Turquia,0.0,0.0,2012,Brasil
+1805,Turquia,0.0,0.0,2013,Brasil
+1806,Turquia,0.0,0.0,2014,Brasil
+1807,Turquia,0.0,0.0,2015,Brasil
+1808,Turquia,0.0,0.0,2016,Brasil
+1809,Turquia,0.0,0.0,2017,Brasil
+1810,Turquia,126.0,440.0,2018,Brasil
+1811,Turquia,485.0,1399.0,2019,Brasil
+1812,Turquia,353.0,868.0,2020,Brasil
+1813,Turquia,662.0,1677.0,2021,Brasil
+1814,Turquia,194.0,642.0,2022,Brasil
+1815,Tuvalu,0.0,0.0,2008,Brasil
+1816,Tuvalu,0.0,0.0,2009,Brasil
+1817,Tuvalu,0.0,0.0,2010,Brasil
+1818,Tuvalu,0.0,0.0,2011,Brasil
+1819,Tuvalu,0.0,0.0,2012,Brasil
+1820,Tuvalu,0.0,0.0,2013,Brasil
+1821,Tuvalu,0.0,0.0,2014,Brasil
+1822,Tuvalu,0.0,0.0,2015,Brasil
+1823,Tuvalu,0.0,0.0,2016,Brasil
+1824,Tuvalu,0.0,0.0,2017,Brasil
+1825,Tuvalu,1.0,3.0,2018,Brasil
+1826,Tuvalu,6.0,23.0,2019,Brasil
+1827,Tuvalu,0.0,0.0,2020,Brasil
+1828,Tuvalu,0.0,0.0,2021,Brasil
+1829,Tuvalu,0.0,0.0,2022,Brasil
+1830,Uruguai,40428.0,60347.0,2008,Brasil
+1831,Uruguai,33634.0,64060.0,2009,Brasil
+1832,Uruguai,28848.0,48768.0,2010,Brasil
+1833,Uruguai,35216.0,90702.0,2011,Brasil
+1834,Uruguai,14864.0,39923.0,2012,Brasil
+1835,Uruguai,48720.0,117918.0,2013,Brasil
+1836,Uruguai,28960.0,73671.0,2014,Brasil
+1837,Uruguai,108040.0,177749.0,2015,Brasil
+1838,Uruguai,86816.0,203228.0,2016,Brasil
+1839,Uruguai,104368.0,253089.0,2017,Brasil
+1840,Uruguai,187316.0,301600.0,2018,Brasil
+1841,Uruguai,81440.0,98329.0,2019,Brasil
+1842,Uruguai,68196.0,58419.0,2020,Brasil
+1843,Uruguai,95722.0,155667.0,2021,Brasil
+1844,Uruguai,194634.0,336671.0,2022,Brasil
+1845,Vanuatu,0.0,0.0,2008,Brasil
+1846,Vanuatu,0.0,0.0,2009,Brasil
+1847,Vanuatu,0.0,0.0,2010,Brasil
+1848,Vanuatu,0.0,0.0,2011,Brasil
+1849,Vanuatu,0.0,0.0,2012,Brasil
+1850,Vanuatu,0.0,0.0,2013,Brasil
+1851,Vanuatu,0.0,0.0,2014,Brasil
+1852,Vanuatu,0.0,0.0,2015,Brasil
+1853,Vanuatu,0.0,0.0,2016,Brasil
+1854,Vanuatu,0.0,0.0,2017,Brasil
+1855,Vanuatu,0.0,0.0,2018,Brasil
+1856,Vanuatu,0.0,0.0,2019,Brasil
+1857,Vanuatu,26.0,73.0,2020,Brasil
+1858,Vanuatu,73.0,133.0,2021,Brasil
+1859,Vanuatu,80.0,244.0,2022,Brasil
+1860,Venezuela,0.0,0.0,2008,Brasil
+1861,Venezuela,0.0,0.0,2009,Brasil
+1862,Venezuela,0.0,0.0,2010,Brasil
+1863,Venezuela,0.0,0.0,2011,Brasil
+1864,Venezuela,0.0,0.0,2012,Brasil
+1865,Venezuela,0.0,0.0,2013,Brasil
+1866,Venezuela,0.0,0.0,2014,Brasil
+1867,Venezuela,0.0,0.0,2015,Brasil
+1868,Venezuela,0.0,0.0,2016,Brasil
+1869,Venezuela,0.0,0.0,2017,Brasil
+1870,Venezuela,0.0,0.0,2018,Brasil
+1871,Venezuela,0.0,0.0,2019,Brasil
+1872,Venezuela,0.0,0.0,2020,Brasil
+1873,Venezuela,0.0,0.0,2021,Brasil
+1874,Venezuela,0.0,0.0,2022,Brasil
+1875,Vietnã,0.0,0.0,2008,Brasil
+1876,Vietnã,0.0,0.0,2009,Brasil
+1877,Vietnã,0.0,0.0,2010,Brasil
+1878,Vietnã,0.0,0.0,2011,Brasil
+1879,Vietnã,0.0,0.0,2012,Brasil
+1880,Vietnã,0.0,0.0,2013,Brasil
+1881,Vietnã,0.0,0.0,2014,Brasil
+1882,Vietnã,0.0,0.0,2015,Brasil
+1883,Vietnã,0.0,0.0,2016,Brasil
+1884,Vietnã,0.0,0.0,2017,Brasil
+1885,Vietnã,10.0,51.0,2018,Brasil
+1886,Vietnã,0.0,0.0,2019,Brasil
+1887,Vietnã,18.0,49.0,2020,Brasil
+1888,Vietnã,100.0,271.0,2021,Brasil
+1889,Vietnã,60.0,260.0,2022,Brasil
