@@ -309,5 +309,7 @@ with tab4:
     st.write(':orange[RM:] 351516')
     st.write(':orange[Turma:] 2DTAT')
     st.write(
-        ':orange[Github:] https://github.com/dhachcar/postech-tech-challenge-1')
+        ':orange[Github principal:] https://github.com/dhachcar/postech-tech-challenge-1')
+    st.write(
+        ':orange[Github Streamlit:] https://github.com/dhachcar/postech-tech-challenge-1-streamlit')
     st.write('FIAP - Pós Tech')
